@@ -1,4 +1,4 @@
-[Resume,](resume.md) [Projects,](projects.md), [Blog,](blog.md)
+[Resume](resume.md), [Projects](projects.md), [Blog](blog.md)
 ### Other Pages
 
 # Devin Atkin

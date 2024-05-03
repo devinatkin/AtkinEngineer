@@ -1,17 +1,24 @@
 [Resume](resume.md), [Projects](projects.md), [Blog](blog.md)
 
-My Resume and CV (I'm still transferring these to this site. )
+I'm in the final year of my PhD working on finalizing my research in CMOS Image Sensors. I'll be looking for work in the coming year. I have experience in chip design, FPGA programming, and system architecting for hardware and software projects. Please check out my research and development on my [github](https://github.com/devinatkin) and [published papers](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ). 
 
-**OBJECTIVE**
+**TOOL FAMILIARITY**
 
-I’m currently working towards my PhD in Electrical Engineering at the University of Calgary with a focus on nano-electronics and VLSI for CMOS image sensor applications. My experience is primarily in chip design, from transistor-level design to complete chip-level verification. I also have experience in board and system-level design using industry-standard software.
+* **Chip Design:** Cadence Virtuoso, Magic & XScheme (AMS 350nm, TSMC 130nm, Skywater 180nm)
+* **PCB Design:** Diptrace, Altium, KiCad (Various Analog and Digital Boards)
+* **FPGA Programming:** Xilinx and Altera Chips, Programmed in VHDL, System Verilog, and Verilog
+* **Embedded Systems:** AVR and ARM chips, Programmed in C, C++, and Python (Circuit Python)
+* **Linux Distributions** RedHat, Ubuntu
+* **System Administration** Ansible, Ceph Storage Clustering, Hyper V, Proxmox
+* **Cloud Providers** Google Cloud, Amazon Web Services, Digital Ocean
+* **Other:** Buildbot, Soldering, Oscilloscope, Vector Network Analyser, Computer Maintenance
 
 **EDUCATION**
 
 * **University of Calgary, Alberta**
     * BSc. With Honors (2019)
     * PhD. (2019 – Expected Graduation October 2024)
-        * Transferred from MSc. To PhD May 2020
+        * Transferred Directly from MSc. To PhD May 2020
 
 **TRAINING**
 * EDx Contract Law Course (Apr 2020)
@@ -33,19 +40,6 @@ I’m currently working towards my PhD in Electrical Engineering at the Universi
     * ATCO Electric
     * Performed price estimation and design for power distribution projects in Alberta
 
-**TOOL FAMILIARITY**
-
-* **Chip Design:** Cadence Virtuoso
-* **PCB Design:** Diptrace, Altium
-* **FPGA Programming:** Xilinx Chips, VHDL & Verilog
-* **Embedded Systems:** C, C++, Python
-* **Other:** Ceph Storage Clustering, Buildbot, Soldering, Lab Equipment, Computer Maintenance
-
-**LEADERSHIP**
-
-* **Chip Design Graduate Student Group** (2019 – 2020)
-    * Focus on workflow organization and knowledge transfer 
-* **I2Sense Laboratory Assistant Director** (2019-2023)
-    * Lab maintenance, project assistance, equipment procurement, proposal writing 
-* **Mentoring Experience** (2015 - Date)
-    * Team Zeus, Protospace, 3D Printer Club 
+**Memberships**
+* Apega Membership (EIT)
+* IEEE Membership

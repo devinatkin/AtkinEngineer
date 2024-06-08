@@ -1,5 +1,3 @@
-[Resume](resume.md), [Projects](projects.md), [Blog](blog.md)
-
 # Devin Atkin
 
 **LinkedIn:** [Linked In](https://www.linkedin.com/in/devin-atkin/) | **GitHub:** [github.com/devinatkin](https://github.com/devinatkin) | **Google Scholar:** [scholar.google.ca Devin Atkin](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ)

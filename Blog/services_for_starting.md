@@ -48,4 +48,10 @@ Why did I state $500 when squarespace has a free tier and doesn't have any sort 
 
 You can check out an example website hosted on AWS amplify [here](https://www.alberta2514640.ca/). 
 
+## Generative AI (To Automate or Not)
+
+So using AI can be a recipe for disaster for companies. What happens when someone convinces your fancy new AI to hand over your product for no money, or promise things that your company doesn't offer. This could be the start of a don't automate things rant; however, I'll push a middle ground. Put your AI in a box and automate away using more reliable systems. Instead of having a chatbot that will answer any question and potentially make things up, have an AI system which relies solely on preplanned chat flows and hands off customers to your email system the moment that things aren't directly within its wheel house. 
+
+If you're looking for a Chatbot for your website try [Watson X Assistant](https://www.ibm.com/products/watsonx-assistant). I really hope to have the chance to create a deployment of this; however, the idea as I understand it is you have a helpline through either chat or voice, and the AI detects basic intentions which match up to questions or actions that you've preprogrammed, and you put points where the AI either provides basic actions you can reliably perform, or has smart hand-offs to humans to minimize the need for humans to answer repeated questions. 
+
 ## More to be added...

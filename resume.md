@@ -1,12 +1,12 @@
 # Devin Atkin
 
-**LinkedIn:** [Linked In](https://www.linkedin.com/in/devin-atkin/) | **GitHub:** [github.com/devinatkin](https://github.com/devinatkin) | **Google Scholar:** [scholar.google.ca Devin Atkin](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ)
+**LinkedIn:** [linkedin.com/in/devin-atkin](https://www.linkedin.com/in/devin-atkin/) | **GitHub:** [github.com/devinatkin](https://github.com/devinatkin) | **Google Scholar:** [scholar.google.ca Devin Atkin](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ)
 
 ---
 
 ## Summary
 
-I'm in the final year of my PhD working on finalizing my research in CMOS Image Sensors. I am currently looking for employment, either full time or consulting. I have experience in chip design, FPGA programming, and system architecting for hardware and software projects. Please check out my research and development on my [github](https://github.com/devinatkin) and [published papers](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ). 
+I'm in the final year of my PhD working on finalizing my research in CMOS Image Sensors. I am currently looking for employment. I have experience in chip design, FPGA programming, Web Development and system architecting for hardware and software projects. Please check out my research and development on my [github](https://github.com/devinatkin) and [published papers](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ). 
 
 ---
 
@@ -26,7 +26,7 @@ I'm in the final year of my PhD working on finalizing my research in CMOS Image 
 ## EDUCATION
 
 **University of Calgary, Alberta**
-- **PhD in Electrical Engineering** (2019 – Expected November 2024)
+- **PhD in Electrical Engineering** (2019 – Expected December 2024)
     - Transferred directly from MSc. to PhD in May 2020
 - **BSc. in Electrical Engineering with Honors** (2019)
 

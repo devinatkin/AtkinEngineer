@@ -1,0 +1,26 @@
+[Resume](resume_page.md) [Projects](projects.md), [Blog](blog.md)
+
+What AI Services am I using and why am I using those AI services.
+
+## ChatGPT Premium and Open AI API
+At time of writing this is the one ongoing premium account that I have. I am a fan of Open AI given they seem to have their act together in terms of actually rolling things out across the world as opposed to limiting themselves to a much smaller region. This makes it feel a lot fairer. That being said there are still certainly things I don't like, like waiting on their updates until they pass some ambiguous safety bar. Which sounds off given I quite like the fact that OpenAI is taking safety as seriously as they do. However, I think with things like say their Sora model, assuming they aren't cherry picking their results, they could setup their API with a mechanical turk stage of a real human validating the safety of the result. Yes this would be expensive, incredibly so, but at leasy they'd be releasing their model and letting more than a handful of people get familiar and play with it. I feel like a financial barrier to use is far more fair than an arbitrary we happen to have the right connection for you to be on our red teams to use the unsafe versions. 
+
+## Amazon Bedrock (Amazon Tital Models & Everyone Elses)
+Because I love having access to a Wide Selection of models I've been using Amazon bedrock whenever something new drops. From Claude Opus, to the variety of models from A21 and others it's been a great playground. Only thing I seriously wish is that amazon had a API setup for bedrock and AWS in general as it's annoying to get going with the automated calls. Amazon has a couple of cheap base models of their own, although I haven't heard much of people using them for more major applications. 
+
+Probably my biggest critique of the platform is a central one with all AWS products. Splitting up the site by region and then product is honestly a terrible system. Regional avialability is of course always going to be a thing, as well as regional pricing thanks to different costs of doing business. But I don't want to have to guess which region I need to select to get the model I want. If I care about region (Which not everyone will, it's a narrowing selection that comes after the product). For instance, I can never remember where the latest and greatest Sonnet 3.5 is available, because I know it's available in one region, but not others. Then there's some regions like Canada with such a small selection of models that it seems a little silly, but i can see people caring about their data not crossing borders being grateful for the handful that are available.
+
+If OpenAI and Google could shake hands and jump onto AWS for convenince sake it might be enough to keep me locked onto a singular site for all my AI needs. But as it is, I continue to explore because competitors will compete.
+
+## Google AI Studio (Gemini Models)
+Now this is one I've used for one feature and one feature alone. Video Processing. I honestly should build myself up a prettified little end point, but it's quite nice to be able to take one of my video files and then ask Gemini to create summaries or answer questions based on the videos. For longer videos, or ones that I want to post online  I've taken to asking it "Is there anything potentially revealing in this video (Names, Addressses, Logins, Etc)". When I make a video for an internal audience, but then it seems worth posting online this prompt can (With some risk of hallucination) act as a way to screen for accidental leaks. That being said I wouldn't trust it on its own. 
+
+Honestly not sure why this page exists as opposed to being integrated into the existing Vertex AI section of the Google Cloud Platform, although it's not a bad setup regardless, just a bit confusing.
+
+## LM Studio
+Locally running LLMs. This works, mediocre at best. Perhaps it's just because the machines I run it on have all lacked large beefy GPUs to handle all the models. I mean I've had an Intel Arc but that's not going to be too great. That being said, for quickly playing around with models like Gemma it's very nice. For larger models, I really don't recommend interacting in real time as that just always sucks. Some of the models do have reasonably large input context windows and when those are actually full I've had it take upto 10 minutes to start producing output. So yeah, that was not a great time all things being equal. 
+
+## Claude ... 
+Well this is why you release globally as quickly as possible. I had thought that it might have pulled me away from Open AI. But I'm used to Open AI's responses. And as cool as their artifacts are, they aren't cool enough to have me pull my subscription from ChatGPT and seriously make a switch over. It's not a particularly advanced feature and I'm sure it's only a matter of time before ChatGPT has something similar. Or given their tie in with microsoft why not make those artifacts, on github. Or allow it to make basic pull requests to start branches. These features will eventually hit parity and it'll just be a matter as to who has the better model combined with whose user interface best makes the model useful in the individuals workflow. 
+
+Claude could have been the winner there if they'd been available sooner in my Area. 

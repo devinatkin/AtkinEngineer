@@ -5,3 +5,4 @@ Bloggy things I've written. Writing quality is not guaranteed.
 [Services For Starting](Blog\services_for_starting)  
 [Operating System Notes](Blog\operating_systems)  
 [Board Houses](Blog\board_houses)
+[AI Chat Services](Blog\ai_services)

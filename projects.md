@@ -6,7 +6,11 @@ I haven't finished transferring things over to this website... I also in general
 [TIL311](Projects\TIL311\TIL311)  
 [Icosahedron](Projects\Icosahedron\Icosahedron)
 
-## Old Old Projects from Undergrad Era (What Little Remains of them)
+## Old Old Projects from the past (What Little Documentation Remains of them)
+
+Maybe if I get around to it I'll do something better with some of the ideas I played with and go from there. 
+For now it's a graveyard. 
+[E-Ink-Display](https://youtube.com/shorts/IPP-D4ChCzI?feature=share)
 [HDLx2416-Display](https://youtu.be/kw68b5dUZck)
 [Electric-Imp-BedsideLight](https://youtu.be/iagQigvVBpA)
 [Playing-With-A-SuperCap](https://youtu.be/gzYzHsVv6Cw)

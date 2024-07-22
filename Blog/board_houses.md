@@ -1,3 +1,5 @@
+[Resume](resume_page.md) [Projects](projects.md), [Blog](blog.md)
+
 I've used relatively few board houses; however, this page will just record my basic thoughts on those that I have used.
 
 ## JLCPCB

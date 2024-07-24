@@ -75,4 +75,15 @@ You will obviously be starting with your own phone number. However, this is like
 
 - There are "Free" alternatives. I have two on my to investigate list "jitsi" and Apache OpenMeetings. Both have their fans, and there are certainly alternative programs; however, these seem to be properly functional and what's best is self-hostable meaning no monthly fee so long as you have a computer to run it. You could have that computer in your cloud, or physically in your ofifce, and it shouldn't make any difference. 
 
+## Capstone Teams
+
+Every Startup Owner that I've known has too many ideas. Honestly myself included in that, although my numbered corporation is mainly for minor consulting work, I've had FAR too many ideas to every pursue them all myself. So what do you do when you have a small budget, and an idea that you want to test out. You get a capstone team. A lot of universities do something similar, but the program I'm familiar with works essentially like this: 
+- You have a project which you fill out a form, you commit some budget to it if it's required (Typically $1000 is considered plenty for most projects barring special equipment being needed), 
+- Students at the beggining of the year look at the available projects and apply to do them. You have the choice if you want to accept the team, and if you have multiple interested you might get some option in terms of getting the most competent students. But you select a team which has applied for your project.
+- You talk to the team a few times to explain the project to them, and ensure they understand what is and is not important to you. They then go away and work on the project.
+- You have meetings when needed (Depends on the team), but overall there's 2 marking meetings. One at the end of each semester where you evaluate their progress and provide more direct feedback. The team will also have an academic advisor providing them with feedback. 
+- At the end of Winter Semester, all being well you're walking away with an initial prototype that can meet your basic requirements. 
+
+Honestly considering that you're not paying anything for the labor. You're getting a steal of a deal. You're not getting guaranteed results; however, you are guaranteed a good faith effort to complete the project, and if the team is actually slacking on their end there is recourse in your grading of them. 
+
 ## More to be added...

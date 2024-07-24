@@ -22,3 +22,8 @@ I'm quite the Xilinx Fanboy when it comes to FPGAs. I still have yet to integrat
 ### Renesas SLG47910 
 I just put in the request for some sample parts of this 1K LUT FPGA device. If the parts get approved I'll do up a test board for them and see what I can acomplish. The contain a one time programmable non volatile memory for their configuartion. This means they act like very simple ASICs, with a per part cost presumably under a couple of dollars, this makes them a lifesaver where they're required. The 3x3mm package size is ideal for tight spaces where larger custom logic woudln't be doable. Hopefully I can come up with a good project to create with this part to validate a workflow with it once it arrives. 
 
+# Discrete Components
+Discrete parts rarely are what one would call interesting; however, every so often I have across a part or two that is intereting simply because it's rare that you get to use it. 
+
+### LSK329A, B, and C
+I got to use these parts for a couple of projects and they are certainly interesting as far as discrete parts go. They're matched N-JFET transistors with some exceptionally low noise performance paramters. Down at 3nV/sqrt(Hz) at the 10Hz point. I needed some astonishingly good leakage and flicker noise parameters which is exactly what these transistors provided me. Now if only they didn't cost quite so much at $13/part for the A variant (Best Performance) and $8/part for the C variant (Worse Performance), that being said the specifications for the lower variants include higher-current testing which may be of value. These would make a great low noise analog frontends for a lot of different applications, especially given the GS breakdown voltage of -40V. 

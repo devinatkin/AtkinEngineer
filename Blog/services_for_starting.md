@@ -48,12 +48,15 @@ Why did I state $500 when squarespace has a free tier and doesn't have any sort 
 
 You can check out an example website hosted on AWS amplify [here](https://www.alberta2514640.ca/). 
 
-## Generative AI (To Automate or Not)
+## Generative AI
 
 So using AI can be a recipe for disaster for companies. What happens when someone convinces your fancy new AI to hand over your product for no money, or promise things that your company doesn't offer. This could be the start of a don't automate things rant; however, I'll push a middle ground. Put your AI in a box and automate away using more reliable systems. Instead of having a chatbot that will answer any question and potentially make things up, have an AI system which relies solely on preplanned chat flows and hands off customers to your email system the moment that things aren't directly within its wheel house. 
 
 If you're looking for a Chatbot for your website try [Watson X Assistant](https://www.ibm.com/products/watsonx-assistant). I really hope to have the chance to create a deployment of this; however, the idea as I understand it is you have a helpline through either chat or voice, and the AI detects basic intentions which match up to questions or actions that you've preprogrammed, and you put points where the AI either provides basic actions you can reliably perform, or has smart hand-offs to humans to minimize the need for humans to answer repeated questions. 
 
+## Automation
+
+Outside of the latest and greatest with AI, there comes the more generic realm of automation. What is and is not worth the effort to automate. A great rule of thumb that I found and have introduced to many an engineer is the XKCD comic "is it worth the time" [link](https://xkcd.com/1205/). The lesson is that you don't want to automate tasks which won't see a return on the time investment; however, the return on time investment is actually quite a lot larger than most people think. 
 
 ## Phone Numbers
 

@@ -12,63 +12,42 @@ Identifying different tabs on the fly based on their contents. When you get to m
 This is certainly a beyond the good enough point but it's a nice touch that a few people would notice, and it'll naturally add a small improvement to their experience. At this time I'm adding a simple favicon to this site.
 
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const canvas = document.getElementById('faviconCanvas');
-        if (!canvas) {
-            console.error('Favicon canvas not found');
-            return;
-        }
-        
-        const ctx = canvas.getContext('2d');
-        if (!ctx) {
-            console.error('Failed to get canvas context');
-            return;
-        }
+document.addEventListener('DOMContentLoaded', function() {
+    const faviconLink = document.querySelector("link[rel~='icon']");
+    if (!faviconLink) {
+        console.error('Favicon link element not found');
+        return;
+    }
 
-        const favicon = document.getElementById('favicon');
-        if (!favicon) {
-            console.error('Favicon link element not found');
-            return;
-        }
+    const canvas = document.createElement('canvas');
+    canvas.width = 32;
+    canvas.height = 32;
+    const ctx = canvas.getContext('2d');
+    const img = new Image();
 
-        function drawBall(angle) {
-            // Clear the canvas
-            ctx.clearRect(0, 0, 32, 32);
-
-            // Save the current context state
-            ctx.save();
-
-            // Move the origin to the center of the canvas
-            ctx.translate(16, 16);
-
-            // Rotate the canvas context by the specified angle
-            ctx.rotate(angle);
-
-            // Draw the ball at the new origin
-            ctx.beginPath();
-            ctx.arc(0, 0, 8, 0, Math.PI * 2);
-            ctx.fillStyle = '#007bff';
-            ctx.fill();
-
-            // Restore the original context state
-            ctx.restore();
-        }
-
+    img.onload = function() {
         function updateFavicon() {
             const time = performance.now() / 1000;
-            const angle = time * Math.PI; // Rotate at 1 radian per second
-            drawBall(angle);
-            favicon.href = canvas.toDataURL('image/png');
+            const angle = time * Math.PI / 4; // Rotate 45 degrees per second
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.save();
+            ctx.translate(canvas.width / 2, canvas.height / 2);
+            ctx.rotate(angle);
+            ctx.drawImage(img, -img.width / 2, -img.height / 2);
+            ctx.restore();
+
+            faviconLink.href = canvas.toDataURL('image/png');
         }
 
-        // Use setInterval for consistent updates, even when the tab is inactive
-        setInterval(updateFavicon, 50);  // Update every 50ms (20 fps)
-
-        // Optional: Use requestAnimationFrame for smoother animation when the tab is active
+        // Start the animation loop
         function animateWhenVisible() {
             updateFavicon();
             requestAnimationFrame(animateWhenVisible);
         }
         requestAnimationFrame(animateWhenVisible);
-    });
+    };
+
+    img.src = faviconLink.href; // Load the existing favicon
+});
 </script>

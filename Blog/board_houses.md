@@ -5,6 +5,8 @@ I've used relatively few board houses; however, this page will just record my ba
 ## JLCPCB
 Fast, Cheap, and Effecitve. They're my current go to. If you use EasyEDA you can even get pretty multi-colour silk screen (Seriously wanting this feature to be expanded out to more general support, but for now I'll remain solidly tempted to swap tools to try out pretty silk screens). Their biggest downside is their lack of support for blind and burried vias. While nobody should want such things on 2 layer boards, and few should want it on 4 layer boards, it really does become a reasonable request on 6 or more layers. JLCPCB goes up to 20 layers. I cannot imagine doing a 20 layer board which has nothing but full through vias, seriously would your vias start to obstruct the integrity of the board. That being said relatively cheap and easy to setup PCBA is a game changer. I don't want to hand solder another 0402 in my life and if I can find fully basic parts in the PCBA library for JLC. Then on effort and time of hand assembling tiny components. 
 
+Getting ready for doing a first order that includes their full coloured silk screen and am admittedly quite excited for the process. Simply getting a board that is more visually interested off the bat even before populating it. 
+
 ## OSH Park
 Faster and more reliable than other fabricators, their purple boards have a slightly distinctive look to them. And they aren't so much more expensive as to be impractical in general prototyping. At $5 - $20 per square inch, they are good when you need fast, relatively cheap, high quality prototype boards. 
 

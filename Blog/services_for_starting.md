@@ -1,4 +1,4 @@
-[Resume](resume_page.md) [Projects](projects.md), [Blog](blog.md)
+[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 # Services for Starting 
 So you're starting a new business and want to setup your IT services. There are a lot of different things you'll need and a lot of different ways to set them up. Here are a few items to get yourself started. I'll try and keep this up to date as I think of more items that may be relevant to staritng a small business. So far Email Services.

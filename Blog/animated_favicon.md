@@ -13,7 +13,7 @@ This is certainly a beyond the good enough point but it's a nice touch that a fe
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const faviconLink = document.querySelector("link[rel~='icon']");
+    const faviconLink = document.getElementById('favicon') || document.querySelector("link[rel~='icon']");
     if (!faviconLink) {
         console.error('Favicon link element not found');
         return;

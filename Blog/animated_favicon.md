@@ -11,6 +11,7 @@ Identifying different tabs on the fly based on their contents. When you get to m
 
 This is certainly a beyond the good enough point but it's a nice touch that a few people would notice, and it'll naturally add a small improvement to their experience. At this time I'm adding a simple favicon to this site.
 
+<link id="favicon" rel="icon" href="/favicon.ico">
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const faviconLink = document.getElementById('favicon') || document.querySelector("link[rel~='icon']");

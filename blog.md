@@ -9,3 +9,4 @@ Bloggy things I've written. Writing quality is not guaranteed.
 - [VLSI Processes](Blog\vlsi_processes)
 - [Fun Parts](Blog\fun_parts)
 - [Time Tracking](Blog\clockify)
+- [Animated Favicon](Blog\animated_favicon)

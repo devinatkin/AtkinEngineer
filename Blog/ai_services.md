@@ -5,6 +5,9 @@ What AI Services am I using and why am I using those AI services.
 ## ChatGPT Premium and Open AI API
 At time of writing this is the one ongoing premium account that I have. I am a fan of Open AI given they seem to have their act together in terms of actually rolling things out across the world as opposed to limiting themselves to a much smaller region. This makes it feel a lot fairer. That being said there are still certainly things I don't like, like waiting on their updates until they pass some ambiguous safety bar. Which sounds off given I quite like the fact that OpenAI is taking safety as seriously as they do. However, I think with things like say their Sora model, assuming they aren't cherry picking their results, they could setup their API with a mechanical turk stage of a real human validating the safety of the result. Yes this would be expensive, incredibly so, but at leasy they'd be releasing their model and letting more than a handful of people get familiar and play with it. I feel like a financial barrier to use is far more fair than an arbitrary we happen to have the right connection for you to be on our red teams to use the unsafe versions. 
 
+### GPT-4o and GPT-4o mini
+These models are solid incremental improvements, but nothing to really write home about. The cheapness of the mini model makes it a good candidate for long term AI applications, where the the full model can easily start to break the bank on applications which don't turn immediate significant profit. API wrapper companies that have based their entire product line on the Open AI hype-train are probably rolling in gravy given the fine tuning availability for the mini model, and the broad cheapness of it for piling out more generated content. 
+
 ## Amazon Bedrock (Amazon Tital Models & Everyone Elses)
 Because I love having access to a Wide Selection of models I've been using Amazon bedrock whenever something new drops. From Claude Opus, to the variety of models from A21 and others it's been a great playground. Only thing I seriously wish is that amazon had a API setup for bedrock and AWS in general as it's annoying to get going with the automated calls. Amazon has a couple of cheap base models of their own, although I haven't heard much of people using them for more major applications. 
 
@@ -20,7 +23,40 @@ Honestly not sure why this page exists as opposed to being integrated into the e
 ## LM Studio
 Locally running LLMs. This works, mediocre at best. Perhaps it's just because the machines I run it on have all lacked large beefy GPUs to handle all the models. I mean I've had an Intel Arc but that's not going to be too great. That being said, for quickly playing around with models like Gemma it's very nice. For larger models, I really don't recommend interacting in real time as that just always sucks. Some of the models do have reasonably large input context windows and when those are actually full I've had it take upto 10 minutes to start producing output. So yeah, that was not a great time all things being equal. 
 
+### Google Gemma 2B
+With LM studio Google Gemma will run on most machines. It's not suitable for a lot of applications as the performance is relatively speaking quite poor; however, given it would run happily on a phone level of hardware, it's a good sign of what's to come. Many will dismiss the 8B and lower models as not worth the time; however, they can actually have some of the largest impact as they can be run without the normal bottlenecks of networking and lightspeed. 
+
+| Metric               | Value    |
+|----------------------|----------|
+| Time to first token  | 2.42s    |
+| Generation time      | 28.79s   |
+| Speed                | 7.55 tok/s |
+| Stop reason          | eosFound |
+| GPU layers           | 0        |
+| CPU threads          | 16       |
+| Mlock                | true     |
+| Token count          | 256/2048 |
+
+This low is running with a system setup incredibly poorly for running these types of setups. And it's still able to achieve a usable 7.5 tokens per second. With a system contianing a basic gpu setup, or one of the newer processors containing a simple tpu I have no doubts this model would be properly snappy in performance. Rembering that with these tiny models it becomes exceptionally improtant to not overdo it with regards to knowledge base, even basic information should really be provided to prevent the system from going off the deepend when asked to perform even simple tasks. 
+
+### Llama 3.1 8B
+3.1 Dropped just the other day at time of writing with models ranging in size from a GPT-4o competitor at well over 405B parameters and several hundred gigabytes of weights, to the tiny 8B parameter model. The relative openness of this model is really what makes it win in the eyes of most people. I may not have a massive bank of GPUs to run the large model, but there's nothing stopping me from spinning them up and giving it a go. Just expect a truely eye watering AWS bill at the end of the month. 
+
+| Metric               | Value    |
+|----------------------|----------|
+| Time to first token  | 3.83s    |
+| Generation time      | 40.10s   |
+| Speed                | 5.27 tok/s |
+| Stop reason          | eosFound |
+| GPU layers           | 0        |
+| CPU threads          | 16       |
+| Mlock                | true     |
+| Token count          | 262/2048 |
+
+With the similarly terrible hardware for the application the 8B token model performs surprisingly well. The drop in tokens per second is expected given the model is 4 times larger. I could likely get an impressive improvement moving from my GPU-less setup to even a basic model where some of the operations can be offloaded to the GPU. 
+
 ## Claude ... 
 Well this is why you release globally as quickly as possible. I had thought that it might have pulled me away from Open AI. But I'm used to Open AI's responses. And as cool as their artifacts are, they aren't cool enough to have me pull my subscription from ChatGPT and seriously make a switch over. It's not a particularly advanced feature and I'm sure it's only a matter of time before ChatGPT has something similar. Or given their tie in with microsoft why not make those artifacts, on github. Or allow it to make basic pull requests to start branches. These features will eventually hit parity and it'll just be a matter as to who has the better model combined with whose user interface best makes the model useful in the individuals workflow. 
 
-Claude could have been the winner there if they'd been available sooner in my Area. 
+Claude could have been the winner there if they'd been available sooner in my Area. The other day I decided to give Claude a generous try and get it to prep a simple webpage with an animated favicon. It didn't do it correctly immediately; however, their artifact setup was definitely cleaner and more user friendly than any of the other setups which I've seen producing a rapid functional, if nowhere near perfect result [Claude Page](https://storage.googleapis.com/atkin_pages/bouncing-ball-favicon-site.html). I feel like for small businesses setting up simple webpages to represent their business they'd be in exactly the right place. Throw together a site using Claude and then host the HTML on a basic data bucket to simply tell people who and what you are. 
+

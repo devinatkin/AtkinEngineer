@@ -11,3 +11,4 @@ Bloggy things I've written. Writing quality is not guaranteed.
 - [Time Tracking](Blog\clockify)
 - [Animated Favicon](Blog\animated_favicon)
 - [Message of the Day](Blog\motd)
+- [Backups](Blog\backups)

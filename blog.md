@@ -12,3 +12,4 @@ Bloggy things I've written. Writing quality is not guaranteed.
 - [Animated Favicon](Blog\animated_favicon)
 - [Message of the Day](Blog\motd)
 - [Backups](Blog\backups)
+- [Programming Languages](Blog\programming_languages)

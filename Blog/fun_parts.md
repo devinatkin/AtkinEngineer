@@ -27,3 +27,13 @@ Discrete parts rarely are what one would call interesting; however, every so oft
 
 ### LSK329A, B, and C
 I got to use these parts for a couple of projects and they are certainly interesting as far as discrete parts go. They're matched N-JFET transistors with some exceptionally low noise performance paramters. Down at 3nV/sqrt(Hz) at the 10Hz point. I needed some astonishingly good leakage and flicker noise parameters which is exactly what these transistors provided me. Now if only they didn't cost quite so much at $13/part for the A variant (Best Performance) and $8/part for the C variant (Worse Performance), that being said the specifications for the lower variants include higher-current testing which may be of value. These would make a great low noise analog frontends for a lot of different applications, especially given the GS breakdown voltage of -40V. 
+
+# Very Specific ASICs
+
+## Toaster Controller Chip PT8A2511PE
+I really think I want to make a toaster from scratch, and honestly this would be the way I'd want to do it. The chip is relatively speaking fairly simple coming in a DIP 8 package, it is a great way to run a toaster. At $0.76 per chip at small quantities, it is a little questionable if one would be better off saving the passives and using a simple microcontroller to drive some heavy fets to acomplish the same purpose; however, the specific nature of this device likely makes it substantially more durable than it would be if it had to encorporate some form of complicated digital logic.
+
+The chip is simple enough with reasonably functionality that It gives me serious 555 timer vibes having the potential to to acomplish the same level of versatile applications if given the chance. 
+
+## Lightning Sensor AS3935-BQFT
+A reasonable looking sensor for detecting lighning within a 40 kilometer radius. I've considered designing this sensor into a camera trigger system for doing better lightning photography. Triggering the camera whenever lightning is detected. Although the sensing would be difficult it would make a great method of capturing awesome photos of lightning strikes assuming that the system can detect fast enough. At $14.43 per chip it's not an insignificant expense; however, the reference design, and built in lightning detection algorithm makes it well worth it.

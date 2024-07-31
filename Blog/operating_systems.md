@@ -57,4 +57,11 @@ Like Amazon Linux, but without that weird coppery after taste you get when deplo
 
 They're twins, although I will say I think Oracle has the better showing here over the other two systems. I've used Amazon Linux in the cloud for awhile as a proxy server for getting my various systems out of natted environments for easy updates and management. Oracle Linux I downloaded and deployed briefly with Hyper V. Alibaba linux is still on my to try, just as soon as I have some form of need for the platform. 
 
+## Vanilla OS
+The slick Mac OSx vibes drew me into this distribution making me want to give it a try, if not on real hardware, as a simple Hyper-V VM. 
+- After disabling secure boot (as always) Vanilla Os did in fact load on hyper-V; however it failed to install requiring a minimum of 50GB to install sucsessfully. 
+- A quick remake of the VM to meet the minimal requirements and it failed to install again, this time with no specific reason just a generic message to "Contact the Devs". 
+
+The system did allow me to look through some settings menues and it indeed looks like what it is. A gussied up Debian distro made to look like it might be at home on a Macbook. I will say I was dissapointed to not try it as the native compatibility with things like android makes it an intriguing option for bringing new life to old Macs. If it ran Apple applications out of the box, I'd say it was the perfect operaitng system for that particular application. 
+
 ## More to come as I have time to write!

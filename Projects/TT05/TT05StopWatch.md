@@ -10,4 +10,6 @@ I prepared this PMOD board and am having it fabricated with JLCPCB in order to e
 
 ## Initial Breadboarded Design
 Borrowing a 7 segment from the makerspace I was able to validate that the design works.
-Here is a video demonstrating the initial breadboarded test: [link](https://youtu.be/YOzGE1vvptc). As you can see the anode order isn't correct; however, this isn't important for the actual functionality as that's a wiring issue related to the fact I only have a 3-digit 7 segment display and am mainly interested in verifying functionality overall while I wait for my pmod design to arrive. . 
+Here is a video demonstrating the initial breadboarded test: [link](https://youtu.be/YOzGE1vvptc). 
+
+As you can see the anode order isn't correct; however, this isn't important for the actual functionality as that's a wiring issue related to the fact I only have a 3-digit 7 segment display and am mainly interested in verifying functionality overall while I wait for my pmod design to arrive. . 

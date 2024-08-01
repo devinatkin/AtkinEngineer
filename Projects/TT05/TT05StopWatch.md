@@ -13,3 +13,9 @@ Borrowing a 7 segment from the makerspace I was able to validate that the design
 Here is a video demonstrating the initial breadboarded test: [link](https://youtu.be/YOzGE1vvptc). 
 
 As you can see the anode order isn't correct; however, this isn't important for the actual functionality as that's a wiring issue related to the fact I only have a 3-digit 7 segment display and am mainly interested in verifying functionality overall while I wait for my pmod design to arrive. . 
+
+## Full PMOD Design Tested
+
+![PMOD Stopwatch Board](TT05_StopWatch_PMODTest.jpg)
+The PMOD board arrived and the design functions as expected. It should be upstreamed into the PMOD repo at some point in the nearish future. The time can be set, it counts down, and when it hits zero it blinks at a frequency of 1Hz. The time maxes at 1 hour. 
+Here's a video demonstrating the final PMOD board performance: [link](https://youtu.be/8mKtwoh_tL0).

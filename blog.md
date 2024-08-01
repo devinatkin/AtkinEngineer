@@ -13,3 +13,4 @@ Bloggy things I've written. Writing quality is not guaranteed.
 - [Message of the Day](Blog\motd)
 - [Backups](Blog\backups)
 - [Programming Languages](Blog\programming_languages)
+- [Book Recommendations](Blog\books)

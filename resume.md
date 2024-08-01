@@ -6,29 +6,57 @@
 
 ## Summary
 
-I'm in the final year of my PhD working on finalizing my research in CMOS Image Sensors. I am currently looking for employment, either full-time or part-time. I have experience in Embedded System Design, Silicon design, FPGA programming, and Web Full-Stack Development. Please check out my research and development on my [github](https://github.com/devinatkin) and [published papers](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ). 
+I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS Image Sensors. Currently seeking a position that will allow me to further develop and challenge my skills. I have extensive experience in Embedded System Design, Chip Design, FPGA Programming, and Full-Stack Web Development. I am eager to apply my broad skill set in a dynamic and innovative environment. Explore my research and development work on my [GitHub](https://github.com/devinatkin) and [Google Scholar](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ).
 
 ---
 
 ## Technical Skills
 
-- **Chip Design**: Cadence Virtuoso, Magic & XScheme (AMS 350nm, TSMC 130nm, Skywater 180nm)
-- **PCB Design**: Diptrace, Altium, KiCad (Various Analog and Digital Boards)
-- **FPGA Programming**: Xilinx and Altera Chips, Programmed in VHDL, System Verilog, and Verilog
-- **Embedded Systems**: AVR and ARM chips, Programmed in C, C++, and Python (Micro Python & Circuit Python)
-- **Linux Distributions**: RedHat, Ubuntu
-- **System Administration**: Ansible, Ceph Storage Clustering, Hyper V, Proxmox
-- **Cloud Providers**: Google Cloud, Amazon Web Services, Digital Ocean
-- **Other**: Buildbot, Soldering, Oscilloscope, Vector Network Analyser, Computer Maintenance
+- **Chip Design:** 
+  - Tools: Cadence Virtuoso, Magic, XScheme
+  - Technologies: AMS 350nm, TSMC 130nm, Skywater 180nm
+
+- **PCB Design:** 
+  - Tools: Diptrace, Altium, KiCad 
+  - Experience: Analog and Digital Designs, Schematic to Layout
+
+- **FPGA Programming:** 
+  - Platforms: Xilinx and Altera Chips 
+  - Languages: VHDL, System Verilog, Verilog
+
+- **Embedded Systems:** 
+  - Platforms: AVR, ARM chips 
+  - Languages: C, C++, Python (MicroPython & CircuitPython)
+
+- **Linux Distributions:** 
+  - RedHat, Ubuntu (Server and Workstation Variants)
+
+- **System Administration:** 
+  - Tools: Ansible, Ceph Storage Clustering, Hyper-V, Proxmox, Docker
+
+- **Cloud Providers:** 
+  - Google Cloud, Amazon Web Services, Digital Ocean, IBM Cloud
+
+- **Web Programming:** 
+  - Languages & Frameworks: Python (Flask), JavaScript (Node.js), C# (.NET)
+
+- **Other Skills:** 
+  - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance
 
 ---
 
 ## EDUCATION
 
 **University of Calgary, Alberta**
+
 - **PhD in Electrical Engineering** (2019 – Expected December 2024)
-    - Transferred directly from MSc. to PhD in May 2020
+  - Transitioned directly from MSc to PhD program in May 2020
+  - Research Focus: High-Speed CMOS Image Sensors
+  - Completed Transformative Talent Internship Program (TTI)
+
 - **BSc. in Electrical Engineering with Honors** (2019)
+  - Participated in Internship Program
+
 
 ---
 
@@ -40,7 +68,7 @@ I'm in the final year of my PhD working on finalizing my research in CMOS Image 
 - Worked with buildbot writing hardware tests, updating an existing python codebase
 
 **PhD Researcher**
-*University of Calgary, I2Sense Laboratory* (May 2019 – Expected Graduation 2024)
+*University of Calgary, I2Sense Laboratory* (May 2019 – Expected Graduation December 2024)
 - Conducted research focussing on High-Speed Wide Dynamic Range CMOS sensors
 - Managed Lab safety, licensing, equipment, and marketing efforts
 

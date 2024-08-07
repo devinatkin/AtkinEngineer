@@ -44,3 +44,40 @@ This book should go problem of the week series, if it ever gets a series. It is 
 ## The Singularity Trap
 Great book, another Denis e. Taylor special. Honestly don't want a sequel to it, because it is so neatly well contained with no great plot hooks for future stories. A great answer to the Fermi Paradox. I will say this is the one book by this author that I haven't felt the compunction to re-listen to, not that's bad, it's great, just not something that really needs repeating.
 
+## Feedback
+An engaging 30 minute science fiction special by Denis e. Taylor. A delightful version of the trope of paradoxes in science fiction with some fun concequences and patterns that had me listening to the story at least 3 times. Bite size fun, but worth every second of it. I had it on as background and had to pause it because I ended up stopping what I was supposed to be working on.
+
+## The Wandering Inn
+Prior to this series I was not a fan of the LitRPG genre. The setup where the characters are in a world more of less governed by video game logic. With levels, and skills, and magic. But the wondering inn drew me in with its engaging characters and slowly building tension over the course of the series. 
+
+- The Wandering Inn
+- Fae and Fare
+- Flowers of Esthelm
+- Winter Solstice
+- The Last Light
+- The General of Izril
+- Rains of Liscor
+- Blood of Liscor
+- Tears of Liscor
+- The Wind Runner
+- The Titan of Baleros
+- The Witch of Webs
+
+Written by Pirate Aba the series is getting ever longer but so far without running out of lore to power it. In fact there's a new series in the same universe starting called Gravesong, starting its plot on a different continent and telling the story with another character at the center of it all. It's always a series that I have to pace myself on, despite the roughly 40 hours of audio in each book. 
+
+## The Three-Body Problem
+An excellent book and now an excellent television series. The book was written by Cinxin Liu and was translated into english from its original language. It has an engaging science fiction world with a story that attempts to give an answer to the Fermi paradox. The first book was narrated by the excellent voices of Luke Daniels, the second book, which is for now where I've left the series is narrated by the much less enjoyable P.J. Ochlan. The contrast between the two voices in terms of their ability to give clear life to the characters is startiling, but I will likly pick the series back up again when I reach the point in the netflix special where book 2 ends. 
+
+## The Expanse Series
+I need to get back into this particular series as my interest started to wain when I started having to wait for books to be published. For some reason I couldn't bring myself to go to the novella companions on this one to expand the canon material out to a grand total of 20 books. 
+
+- Leviathan Wakes
+- Caliban's War
+- Abaddon's Gate
+- Cibola Burn
+- Nemisis Games
+- Babylon's Ashes
+- Persepolis Rising
+- Tiamat's Wrath
+- Then I have Leviathan Falls, but still need to listen to it. When will that end up happening I don't know.
+

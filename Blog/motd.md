@@ -28,3 +28,20 @@ This creates a reverse SSH tunnel and allows the local port to be accesssible on
 ssh -f -N -o ServerAliveInterval=60 -o ServerAliveCountMax=3 -R [local_port]:localhost:[remote_port] [user]@[remote_host]
 ```
 This keeps the server connection alive by sending messages at 60 second intervals. It also moves SSH into the background while not executing anything on the remote machine. Even this will eventually die when the person has a network failure or something similar, so it's important to couple this with some form of code set to just re-establish the connection if it has failed. 
+
+## Smaller Tools
+
+### htop
+A nicer version of top. Great for monitoring a system as it runs a bunch of processes you want to keep an eye on. The cleaner human readable interface makes for a much easier time when things are changing. Plus everyone loves colourful terminals. 
+
+### jq
+A simple json hanlder perfect for command line usage. Great for extracting specific information without needing to dig deeply into the overarching structure of the code. 
+
+### fzf
+A simple utility to allow for simple selection without being fancy and writing out the full utilities. Simply use the barebones user interface to select the actual value that you want. 
+
+### ncdu
+NCurses Disk Usage tool. It looks over all your files and provides a simple user interface for seeing where all that storage is actually going. 
+
+### asciinema
+Instead of recording a screen recording of your terminal and wasting all that extra space, record the actual text as you type it and the timing there-in. Simple enough to use, and can be either streamed or cast to elsewhere as needed. 

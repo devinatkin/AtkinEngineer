@@ -81,3 +81,51 @@ I need to get back into this particular series as my interest started to wain wh
 - Tiamat's Wrath
 - Then I have Leviathan Falls, but still need to listen to it. When will that end up happening I don't know.
 
+## Expeditionary Force
+The Beer Can that saves the world. A great science fiction romp that has enough popularity that I've started picking up references to the series in other sources. And there's a really obviouos and direct reference to it in the 4th book of the bobiverse book 4.
+
+- Columbus Day
+- Spec Ops
+- Paradise
+- Trouble on Paradise
+- Black Ops
+- Zero Hour
+- Mavericks
+- Renegades
+
+I have several more books in the series to go through so I'l lhold off on forming a final opinion, but suffice to say if I've managed to get 8 books deep it's safe to say I enjoy the series. 
+
+## The First Fifteen Lives of Harry August
+What if you die and get a do over. Or as many do overs as you want with all of the foreknowledge that comes from having lived your life a time before. I think we've basically all had the thought of going back some years and trying out those paths less traveled, or all the paths that you could have. It's a interesting concept to make a series out of, and explored in a way that while definitely satisfying left me feeling less comfortable in the answer than I would have liked. 
+
+## CivCEO: Accidental Champion Series
+Another romp in the LitRPG world. The interesting concept in this one, is the person drawn into the fantasy world is a grumpy old CEO with a heart of gold. 
+
+- CivCEO 1
+- CivCEO 2
+- CivCEO 3
+- CivCEO 4
+- CivCEO 5
+- CivCEO 6
+- CivCEO 7
+- CivCEO 8
+
+Why the author didn't feel the need to title their books beyond numbering them is something that is beyond me. Especially when there is definite broad themes to each of the books. That being said my only advice here is to speed run these books as fast as you can. If you give them any time to sit then you'll realize that the author is not actually all that good, despite the winning concept. 
+
+From the main character always winning, or at the least only having minimal set backs to their plans. To the plot holes where the character references things that they shouldn't really know about. It's a bit frustrating to enjoy the book. Even the books timeline is left vague, and events occur at no well defined speed once the series gets past its initial setup. There is a slight attempt to explain the timeline at the end of the series; however, it's a general oh yeah everything is timeless here...
+
+## Singularity Series
+Just think if ChatGPT genuinely did gain sentience. It might not be the prettiest for us, or it could negotiate peace and the perfect eco friendly economy. It's a serious gamble.
+
+- Avogadro Corp (Yeah it's a funny play on reality)
+- A.I. Apocalypse
+- The Last Firewall
+- The Turing Exception
+
+The second book bothered me for the rest of the series. Without spoiling too much:
+<details>
+  <summary>Major Spoiler warning</summary>
+  
+The main character commits what is effectivly Xenocide against a new species. And is then praised as a hero by both humanity (Who justifiably hate the new species), and another new species who I feel should rightfully look on him as a horrifying monster. And as a run on concequence of this person's designs and actions humans end up as cargo container of computational gum sticks floating into deep space with their memories modified. 
+  
+</details>

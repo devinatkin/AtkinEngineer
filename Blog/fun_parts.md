@@ -7,11 +7,24 @@ A really great option when you're looking for something cheap and quick that can
 
 Part of the reason I like recommending this chip to students is the USB programming which eliminates the need for any sort of external programmer. This makes it ideal for students who are just getting into embedded systems, or for projects that need to operate on shoe string budgets without access to more experienced individuals. 
 
+### W55RP20 
+I saw a link saying that this chip will be dropping sometime soon. It's a combination of the RP2040 with the addition of Flash and Ethernet. Making it the ideal single chip solution to create low volume projects which connect up to ethernet. It's definitely something I'll be checking out as soon as I get the chance and I've signed up to be notified once they're available for purchase. 
+
+## RP2350, RP2354
+Hype, Hype, Hype, Hype. This is an upgrade from the earlier RP2040 chip and has packages that act as drop in replacements, simply better in every spec. 
+
+- RP2350A (Direct Drop in replacement with improved specs)
+- RP2354A (Drop in replacement that adds 2MB of built in flash)
+- RP2350B (Bigger Chip, 48 GPIO)
+- RP2354B (Bigger Chip, 48 GPIO, Plus 2MB of built in flash)
+
+I'm quite hyped for these chips to become available on platforms like JLCPCB so that I can start including them in my designs. Although I'll have to use up my existing stock of RP2040 chips. 
+
+While the larger amount of ram, faster base clock, and lower power consumption are nothing to turn ones nose up at. I'm quite excited to see what comes of the Hazard3 Risc V cores which are included on the processor. These will likly not do much for most hobbiests, but I hope represents a potential future IC which removes the ARM cores and goes fully in on Risc V. 
+
 ## ATTiny 2313
 So I used to use AVR microcontrollers fairly extensively in my various small projects. Coming in DIP packages back when I soldered all my projects myself I ended up quite liking these ATTiny chips for their greater number of IO as I seemeed to always find myself IO limited in most designs. I've used a lot of the AVR series at this point with Micros over 100 pins; however, during the early days when TQFP packages made me nevous there was definitely a lot of cases where the DIP 20 package costing ~1/2 that of the lightest ATMega chips was an ideal solution for me.
 
-### W55RP20 
-I saw a link saying that this chip will be dropping sometime soon. It's a combination of the RP2040 with the addition of Flash and Ethernet. Making it the ideal single chip solution to create low volume projects which connect up to ethernet. It's definitely something I'll be checking out as soon as I get the chance and I've signed up to be notified once they're available for purchase. 
 
 ### P2X8C4M64P
 This seems like a good all in one solution. Although coming in at the eye watering cost of $35 per chip! The propeller microcontrollers from parallax are 8 core microcontrollers with enough peripherals and connectivity to choke a horse. I hope I get the excuse to embed one of these into a project at some point. The datasheet quite interestingly has its revision history showing that the chip has undergone multiple revisions since its original release in 2018, with the most recent REV C release coming in 2020 helping with ADC performance marginally. Several of its features seem promising for various applications, although the lack of sufficient details somewhat stops me from pulling the trigger on certain solutions. For instance the Smart I/O pins brag 64 identical pins, but I somewhat have trouble believing that the Triangle/ SawTooth/ SMPS PWM output can be activated differently for every output. 

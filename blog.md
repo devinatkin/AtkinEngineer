@@ -1,6 +1,6 @@
 [Resume](resume_page.md) [Projects](projects.md), [Blog](blog.md)
 
-Bloggy things I've written. Writing quality is not guaranteed.
+Bloggy things I've written. Writing quality is not guaranteed as I aim to update these over time to add more details and the like.
 
 - [Services For Starting](Blog\services_for_starting)  
 - [Operating System Notes](Blog\operating_systems)  
@@ -14,3 +14,4 @@ Bloggy things I've written. Writing quality is not guaranteed.
 - [Backups](Blog\backups)
 - [Programming Languages](Blog\programming_languages)
 - [Book Recommendations](Blog\books)
+- [Ansible](Blog\ansible)

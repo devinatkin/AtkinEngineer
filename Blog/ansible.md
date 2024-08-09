@@ -1,0 +1,21 @@
+[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
+
+# Ansible
+Ansible is an amazing tool for operating larger numbers of servers quickly and painlessly. Essentially it handles things like, but not limited to, hey I need to install this software on 100 machines, but I don't want to lose my mind while doing it. Do it for me. There is certainly a bit of pain getting started with Ansible as the yaml format can be fairly difficult to get used to, and the sheer number of actions that have already been written can leave you reimplementing things several times while optimizing your Ansible Playbook (The Thing you run to perform the needed configuration). If you want a full and in detail guide I've been enjoying Jeff Geerling's book on the topic, and would highly recommend it. Otherwise these are simply a few of my own notes on the topic. 
+
+## Ansible Playbooks need to be Impotent
+This is something that can be fairly easy to get into bad habbits with. Especially when writing stuff that hasn't been packaged pretily yet. The general idea is that you should be able to run your ansible playbook repeatedly with the same inventory of machines and it won't make a difference in comparison to you running it once. This seems un-important until you want to run something and the network conks out part way through, or you start changing things. If your playbook is not impotent then you remove most of the power the software has, you can no longer reconfigure on the fly, relying on your playbooks to be a canon representation of your system, instead you need to actively remember what is where because running things again might have unexpected side effects. 
+
+## Roles make your life simpler
+If I have a server which plays the role of serving a specific webpage, and I need to move to two servers serving that page, ideally I should just be adding the new server to the role list. If I need a specific person has access to certain servers, but not others, then I should just be moving their name into a variable list for setting up all those permissions. Splitting your ansible configurations not just by the groups of servers that get certain playbooks, but into the roles that those groups of servers get will help for rapidly configuring everything to be. Just how you like it.
+
+## Ansible can play a role in CI/CD pipelines
+The way ansible is currently being used in my life is a playbook which handles redeploying updated versions of a handful of apps configured and running on a Traefik server. This setup is important as it allows us to redeploy out application setups at will, without running into significant amounts of work. Adding new applications then simply becomes a matter of adding new actions to the list. Each of these applications is run in docker containers. One could deploy it using many other ways; however, we've settled upon a portainer traefik stackup. Potentially we may even remove portainer in the future.
+
+## Dynamic Inventory Files.
+So you have a list of servers that are your responsibility to manage. The issue is that the list itself might change more frequently than you care to update it. People spinning up and down virtual machines. While most dynamic systems can end up being configured correctly by whatever happens to be creating and destroying them, there is a good argument to do just this with Ansible, and still other occassions where this is impractical. Personally I've used the google cloud, proxmox, and digital ocean with dynamic inventory files; this allowed for easy creation of vms when needed, and destorying them when experiments or actions are done. 
+
+## My Favorite Roles and Collections
+
+[geerlingguy.mac](https://github.com/geerlingguy/ansible-collection-mac) 
+Add this role with ansible galaxy. It massively speeds up setup on a macintosh computer that you're in charge of configuring. Regardless of wheither that computer is yours or someone elses. Installing the apps that you want to install, configuring the bottom dock just the way you like it, and installing homebrew along with any packages that strike your fancy. It's a great system for getting everything done in one step instead of configuring your system over time. There's even a good example use case from the collection creator <https://github.com/geerlingguy/mac-dev-playbook>.

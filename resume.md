@@ -57,7 +57,6 @@ I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS 
 - **BSc. in Electrical Engineering with Honors** (2019)
   - Participated in Internship Program
 
-
 ---
 
 ## EXPERIENCE

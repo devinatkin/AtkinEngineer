@@ -15,4 +15,5 @@ Bloggy things I've written. Writing quality is not guaranteed as I aim to update
 - [Programming Languages](Blog\programming_languages)
 - [Book Recommendations](Blog\books)
 - [Ansible](Blog\ansible)
+- [Notes Repos](Blog\note_repo)
 - [Musings and Scribles](Blog\musings)

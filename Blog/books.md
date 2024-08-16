@@ -129,3 +129,9 @@ The second book bothered me for the rest of the series. Without spoiling too muc
 The main character commits what is effectivly Xenocide against a new species. And is then praised as a hero by both humanity (Who justifiably hate the new species), and another new species who I feel should rightfully look on him as a horrifying monster. And as a run on concequence of this person's designs and actions humans end up as cargo container of computational gum sticks floating into deep space with their memories modified. 
   
 </details>
+
+## Ready Player One
+By Ernest Cline, it's the only book of his that I've listened to. It's pretty enteretaining, but nothing super special. A nostalgic romp through nerd history with references around every bend. It's not a bad book by any means, and it was a fun movie. But it's extremely telling that I haven't thought about it in ernest between now and when I read it last. I listened to the majority of the 15 hour book over the course of driving down from Lloydminster to Calgary, and driving back up from Calgary to Lloydminster during my engineering internship. The fact that it was enough to keep my attention for the full driving time is a sign that it is indeed a reasonably good book.
+
+## Starter Villain
+John Scalzi you're a delight. This book was entertaining from start to finish with a silly but fun plot which kept me listening. At only an 8 hour listen it's not the longest novel out there, but that keeps it bight sized and enjoyable. I particularly loved the descritpion of how money actauly works in the context of the story, and the fundamental motivations of the "Villian"? 

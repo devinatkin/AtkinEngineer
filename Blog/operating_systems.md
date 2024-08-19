@@ -64,4 +64,7 @@ The slick Mac OSx vibes drew me into this distribution making me want to give it
 
 The system did allow me to look through some settings menues and it indeed looks like what it is. A gussied up Debian distro made to look like it might be at home on a Macbook. I will say I was dissapointed to not try it as the native compatibility with things like android makes it an intriguing option for bringing new life to old Macs. If it ran Apple applications out of the box, I'd say it was the perfect operaitng system for that particular application. 
 
+## Custom Compiled Linux
+I need to do Linux from scratch on an x86 machine: [Find it Here](https://www.linuxfromscratch.org/). The idea being that why use someone elses distribution when you can create your own by compiling the kernel yourself and gaining familiarity with the core of what makes linux linux. It's been on my TODO for a very long time now. That being said, I was able to recently compile Linux using [buildroot](buildroot.org) for a custom SBC design that I did up for a research project. The processs of repeatedly recompiling the linux kernel from scratch was admittedly incredibly slow and frustrating, but in the end I ended up with a linux binary that works on a small board using only 16MB of flash memory. Linux from scratch gets you a utility running on sub 1GB of storage, assuming that cloud providers allow provisioning disks that small you could run that system online for only $3 per month. 
+
 ## More to come as I have time to write!

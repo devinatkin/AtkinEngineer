@@ -126,7 +126,7 @@ The second book bothered me for the rest of the series. Without spoiling too muc
 <details>
   <summary>Major Spoiler warning</summary>
   
-The main character commits what is effectivly Xenocide against a new species. And is then praised as a hero by both humanity (Who justifiably hate the new species), and another new species who I feel should rightfully look on him as a horrifying monster. And as a run on concequence of this person's designs and actions humans end up as cargo container of computational gum sticks floating into deep space with their memories modified. 
+The main character commits what is effectivly Xenocide against a new species. And is then praised as a hero by both humanity (Who justifiably hate the new species), and another new species who I feel should rightfully look on him as a horrifying monster. And as a run on concequence of this person's designs and actions humans end up as cargo container of computational gum sticks floating into deep space with their memories modified to no longer reflect the true nature of their reality, instead believing they live in a perfectly normal AI free world.
   
 </details>
 

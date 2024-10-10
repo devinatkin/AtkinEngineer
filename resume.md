@@ -25,7 +25,7 @@ I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS 
   - Experience: Analog and Digital Designs, Schematic to Layout
 
 - **FPGA Programming:** 
-  - Platforms: Xilinx and Altera Chips 
+  - Platforms: Xilinx, Altera, and Trion Chipss
   - Languages: VHDL, System Verilog, Verilog
 
 - **Embedded Systems:** 

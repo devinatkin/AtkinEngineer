@@ -17,6 +17,16 @@ An example use case for an individual would be setting up their network storage 
 
 If a drive fails, you can simply replace it without bringing down the cluster. So long as not too much of the cluster fails at any point, you're safe from data loss or downtime. With Ceph, your biggest problem becomes finding places to plug sufficient drives, most techie people will have a bank of lower space drives, that they would love to be able to add to their clusters, having sufficient power and sata ports to support them all is the actual challenge with this setup. 
 
+### Home Ceph - 1 Node More to Come
+I setup a single node ceph cluster using Hyper V and 1 drive on my system. The idea is that ideally I'd like to expand out to many nodes, and many drives; however, for the time being setting up the access and a single OSD is sufficient to learn a little bit.
+
+- I installed Ubuntu 22.04 Server on a Hyper-V VM and followed Ubuntu's instructions for adding a drive and creating a single node with a single pool. 
+- I created a user and grabbed their keyring information, transferring that over to a Windows machine where I'd already installed the Ceph for Windows utilities.
+- Inside I followed the minimum configuration file for creating ceph connection
+- I had originally forgotten to install Dokan which allows for creating virtual file systems within windows
+
+My intention with the setup is to add additional ceph nodes as possible to try and increase my available storage and reliablity Starting with my ~200GB of unsafe storage I'll add replication and additional safety as I increase my cluster size.
+
 ## Cloud Storage
 Cloud storage seems cheap, but they'll torture you if you actually use what you pay for. I'm rather fed up with google drives storage settings, and I need to go and see if I can disable the warnings. I've got an account with a grand total of 4TB of storage. It's thanks to backups, 85% full. This drives google off the wall as they sell that storage clearly assuming you won't use it all. Comparing it to their bucket storage costs, google drive is a steal of a deal, that is so long as you assume that google is keeping all your data full accessible and properly redundantly backed up (Hint, google and you'll find instances of google losing peoples files, at least temporarily...). 
 

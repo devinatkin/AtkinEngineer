@@ -1,6 +1,10 @@
 # Devin Atkin
 
-**LinkedIn:** [linkedin.com/in/devin-atkin](https://www.linkedin.com/in/devin-atkin/) | **GitHub:** [github.com/devinatkin](https://github.com/devinatkin) | **Google Scholar:** [scholar.google.ca Devin Atkin](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ)
+**LinkedIn:** [linkedin.com/in/devin-atkin](https://www.linkedin.com/in/devin-atkin/) | 
+**GitHub:** [github.com/devinatkin](https://github.com/devinatkin) | 
+**Google Scholar:** [scholar.google.ca Devin Atkin](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ) |
+**Email:** devinatkin@gmail.com |
+**Phone:** (403)-830-1177
 
 ---
 
@@ -21,7 +25,7 @@ I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS 
   - Experience: Analog and Digital Designs, Schematic to Layout
 
 - **FPGA Programming:** 
-  - Platforms: Xilinx and Altera Chips 
+  - Platforms: Xilinx, Altera, and Trion Chipss
   - Languages: VHDL, System Verilog, Verilog
 
 - **Embedded Systems:** 
@@ -49,7 +53,7 @@ I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS 
 
 **University of Calgary, Alberta**
 
-- **PhD in Electrical Engineering** (2019 – Expected December 2024)
+- **PhD in Electrical Engineering** (2019 – Expected May 2025)
   - Transitioned directly from MSc to PhD program in May 2020
   - Research Focus: High-Speed CMOS Image Sensors
   - Completed Transformative Talent Internship Program (TTI)
@@ -66,12 +70,14 @@ I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS 
 - Worked at [Eideticom] (https://www.eideticom.com/) on testing and validation
 - Worked with buildbot writing hardware tests, updating an existing python codebase
 
-**PhD Researcher**
-*University of Calgary, I2Sense Laboratory* (May 2019 – Expected Graduation December 2024)
+**Lab Assistant Directory**
+*University of Calgary, I2Sense Laboratory* (May 2019 – May 2025)
 - Conducted research focussing on High-Speed Wide Dynamic Range CMOS sensors
 - Managed Lab safety, licensing, equipment, and marketing efforts
+- Maintained Lab equipment including computers and servers, managing IT access.
+- Developed Web Applications for FL2F Workshops
 
-**Distribution Powerline Designer** 
+**Distribution Powerline Designer - Undergraduate Internship** 
 *ATCO Electric* (Jan 2017 – Dec 2017)
 - Performed price estimation and design for power distribution projects in Alberta
 

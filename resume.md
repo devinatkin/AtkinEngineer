@@ -17,7 +17,7 @@ I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS 
 ## Technical Skills
 
 - **Chip Design:** 
-  - Tools: Cadence Virtuoso, Magic, XScheme
+  - Tools: Cadence Virtuoso, Magic, XScheme, NGSpice
   - Technologies: AMS 350nm, TSMC 130nm, Skywater 180nm
 
 - **PCB Design:** 
@@ -79,7 +79,9 @@ I'm in the final year of my PhD in Electrical Engineering, specializing in CMOS 
 
 **Distribution Powerline Designer - Undergraduate Internship** 
 *ATCO Electric* (Jan 2017 – Dec 2017)
-- Performed price estimation and design for power distribution projects in Alberta
+- Performed price estimation for numerous power distribution projects across northern Alberta ranging from $20,000 to $1 Million.
+- Designed numerous small to medium electrical service deployments across northern Alberta.
+- Wrote Automation for generating certain estimate documents efficiently without errors.
 
 ---
 

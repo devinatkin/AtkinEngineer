@@ -18,7 +18,8 @@ Hype, Hype, Hype, Hype. This is an upgrade from the earlier RP2040 chip and has 
 - RP2350B (Bigger Chip, 48 GPIO)
 - RP2354B (Bigger Chip, 48 GPIO, Plus 2MB of built in flash)
 
-I'm quite hyped for these chips to become available on platforms like JLCPCB so that I can start including them in my designs. Although I'll have to use up my existing stock of RP2040 chips. 
+I'm quite hyped for these chips to become available on platforms like JLCPCB so that I can start including them in my designs. 
+Although I'll have to use up my existing stock of RP2040 chips before I buy them in bulk I've got a couple samples from Raspberry Pi which I'll be integrating into some thesis related boards shortly.
 
 While the larger amount of ram, faster base clock, and lower power consumption are nothing to turn ones nose up at. I'm quite excited to see what comes of the Hazard3 Risc V cores which are included on the processor. These will likly not do much for most hobbiests, but I hope represents a potential future IC which removes the ARM cores and goes fully in on Risc V. 
 
@@ -30,7 +31,10 @@ So I used to use AVR microcontrollers fairly extensively in my various small pro
 This seems like a good all in one solution. Although coming in at the eye watering cost of $35 per chip! The propeller microcontrollers from parallax are 8 core microcontrollers with enough peripherals and connectivity to choke a horse. I hope I get the excuse to embed one of these into a project at some point. The datasheet quite interestingly has its revision history showing that the chip has undergone multiple revisions since its original release in 2018, with the most recent REV C release coming in 2020 helping with ADC performance marginally. Several of its features seem promising for various applications, although the lack of sufficient details somewhat stops me from pulling the trigger on certain solutions. For instance the Smart I/O pins brag 64 identical pins, but I somewhat have trouble believing that the Triangle/ SawTooth/ SMPS PWM output can be activated differently for every output. 
 
 # MicroProcessors
-Well It's official I've begun to dig into embedded linux and microprocesors. Although it's hardly a surprise. Building my own motherboard has been on my must do for literally years at this point. Recently I've been using the F1C200S a chip which will likely make its way into my thesis in the form of both a guide on doing board up on designs containing it, and as a nice chip for creating an integrated measurement platform. I've since been looking at the other AllWinner Microprocessors on the market and I must say that while they have truely pitiful documentation they offer a wide range of options suitable for a lot of possible applications. 
+Well It's official I've begun to dig into embedded linux and microprocesors. Although it's hardly a surprise. 
+Building my own motherboard has been on my must do for literally years at this point. 
+Recently I've been using the F1C200S a chip which will likely make its way into my thesis in the form of both a guide on doing board up on designs containing it, and as a nice chip for creating an integrated measurement platform. 
+I've since been looking at the other AllWinner Microprocessors on the market and I must say that while they have truely pitiful documentation they offer a wide range of options suitable for a lot of possible applications. 
 
 ## F1C100S and F1C200S
 Pin compatible Sister chips they offer 32MiB and 64MiB of ram respectively. Suitable for running simple lightweight linux systems in low-stakes applications. The 4 different required voltage rails can apparently be reduced to 2 by merging the 2.5V and 2.8V rails into a singular 2.7V rail (Don't quote me on that one). However the total support ciruictry can likely be squeezed down to an area no bigger than the chip itself. I originally purchased 30 of these chips for a project, and proceeded to sit on them for well over a year before putting together the board to gain familiarity. I'll likely move to a second board soon with substantially improved features. Check out my repo with the I2Sense lab on github for what should be a simple, fully functional design using the chip. 
@@ -58,4 +62,6 @@ I really think I want to make a toaster from scratch, and honestly this would be
 The chip is simple enough with reasonably functionality that It gives me serious 555 timer vibes having the potential to to acomplish the same level of versatile applications if given the chance. 
 
 ## Lightning Sensor AS3935-BQFT
-A reasonable looking sensor for detecting lighning within a 40 kilometer radius. I've considered designing this sensor into a camera trigger system for doing better lightning photography. Triggering the camera whenever lightning is detected. Although the sensing would be difficult it would make a great method of capturing awesome photos of lightning strikes assuming that the system can detect fast enough. At $14.43 per chip it's not an insignificant expense; however, the reference design, and built in lightning detection algorithm makes it well worth it.
+A reasonable looking sensor for detecting lighning within a 40 kilometer radius. I've considered designing this sensor into a camera trigger system for doing better lightning photography. 
+Triggering the camera whenever lightning is detected. Although the sensing would be difficult it would make a great method of capturing awesome photos of lightning strikes assuming that the system can detect fast enough. 
+At $14.43 per chip it's not an insignificant expense; however, the reference design, and built in lightning detection algorithm makes it well worth it.

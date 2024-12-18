@@ -12,6 +12,9 @@ The core of most embedded systems. At some point I need to take a look at GCC as
 ## C# and .NET
 Microsoft's darling I want to do a lot more in this language as it seems like a nice balance between the lower and higher levels. A lot of the .NET libraries could use a serious upgrade in terms of their documentation. I've built a website using this combination; however, the sheer number of ways of doing everything with the same framework, and the incomplete documentaiton sources really makes it a pain to jump in and out of this language. Ideally I'd love to get into a month or two long project where I don't get interrupted with other work so that I could really learn to love the .NET environment.
 
+## F# and .Net
+Not as talked about as it honestly deserves to be, but it's a reminder that the sharp is partially for the dot net integration. This language is a functional programming langauge with a syntax that I found quite usable. I don't have many ocassions to use functional programming; however, it's been a nice one to experiment with. 
+
 ## Python, MicroPython, and CircuitPython
 Python is an easy going language that I'd recommend for anyone who has enough clock cycles to spare. It makes things easy and quick to program. Whatever you want to do there's a python library for it. If you need efficiency then start running for the hills as outside of items where you can rely on a foreign language interface for fast code you're kind of stuck with painfully slow operation. The embedded system versions are an interesting case of people insisting on developing in a language they're familiar with, and honestly the speed and ease of development are underrated for a lot of applications. Processing even in embedded environments is now so far into the crazy pants region that if you're not optimizing for power consumption or cost or something else difficult, Micro Python is a good option. 
 

@@ -52,3 +52,7 @@ This could work as a more secure way to bypass the shared numbers for two factor
 ## Microcontroller as Everything
 One thing that I've noticed as of late is the number of specialized chips that end up being more expensive than simply taking a microcontroller and programming it to fulfill the needed functionality. For instance a design I'm working on currently I need UART to USB conversion; however, instead of placing the UART to USB FTDI chip down and working with that established setup, my current plan is to take an RP2040 chip and use that instead. Essentially allowing me to also gain access to a second UART channel, as well as a plethora of GPIO. In this particular case I'm working with a low powered Microprocessor as well which uses its one USB port for OTG mode, and while it can be configured to overlap the serial port, it's simply convenient to just add a secondary port. Worst case scenario I gain a port whereby I can interact with the RP2040 over the UART and simplify the process of controlling IO.
 
+
+## One Click Job Sites... 
+So I know that one click to apply job sites changed the balance in such a way that companies were then incentivised to do aggressive filtering to remove all but the most easily presentable candidates from their hiring pool. Making sure your resume is readable by AI is just as important as making sure it's readable by a human hiring manager. 
+

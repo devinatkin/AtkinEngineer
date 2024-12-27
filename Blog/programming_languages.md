@@ -31,6 +31,14 @@ Microsoft's darling I want to do a lot more in this language as it seems like a 
 ## F# and .Net
 Not as talked about as it honestly deserves to be, but it's a reminder that the sharp is partially for the dot net integration. This language is a functional programming langauge with a syntax that I found quite usable. I don't have many ocassions to use functional programming; however, it's been a nice one to experiment with. 
 
+## Q# Programming
+The Q Sharp programming language is a quantum computing programming language. They can be run in simulations or even deployed to azure. It seems like a fun way to try and implement random things in a way that they would at least in theory run on a quantum computer. At least It can allow me to stop viewing quantum computers as some sort of strange magical thing.
+
+## Visual Basic (.NET)
+Another Unjustly hated language, Visual basic was one of the first lanaguages I learned. It's hated for the lack of efficiency, which is honestly rich considering that python has become as popular as it is. The thing that's nice with visual basic from my perspective is the easy creation of user interfaces, combined with the plethora of libraries to handle all the fundamentals making lots of complicated operations significantly simplified. 
+
+Currently the Visual Basic ide of choice is Visual Studio, which is somewhat frustrating when VS Code exists. Microsofts insistence on maintaining the secondary IDE for free versus paying users is not exactly my favorite decision; however, it is understandable. The overall setup of the language is super convenient for creating simple desktop utilities and items of interest which can run on Windows systems with cleanly managed install and uninstall being handled by the platform.
+
 ## Python, MicroPython, and CircuitPython
 Python is an easy going language that I'd recommend for anyone who has enough clock cycles to spare. It makes things easy and quick to program. Whatever you want to do there's a python library for it. If you need efficiency then start running for the hills as outside of items where you can rely on a foreign language interface for fast code you're kind of stuck with painfully slow operation. The embedded system versions are an interesting case of people insisting on developing in a language they're familiar with, and honestly the speed and ease of development are underrated for a lot of applications. Processing even in embedded environments is now so far into the crazy pants region that if you're not optimizing for power consumption or cost or something else difficult, Micro Python is a good option. 
 
@@ -61,11 +69,6 @@ Probably the reason that most people are learning Java at an early age now is to
 An unfairly liked language. With all of its quirks it's a miracle to me that it became as popular as it has; however, it now dominates the internet. Alongside its children, libraries that make it honestly look like a completely different language. React the little atom iconed library by facebook is responsible for so many user interfaces its kinda silly.
 
 Under Javascript you get Type Script which essentially adds typing to the language. It's my recommendation to find one and stick with it as you'll be jumping between systems forever if you don't settle down here and decide which setup you'll get familiar with. If you're unlucky enough to hop between languages like a pinball in a very enthusiastic game, then hang onto an AI programming assistant and hope that you can make the constant transition. 
-
-## Visual Basic (.NET)
-Another Unjustly hated language, Visual basic was one of the first lanaguages I learned. It's hated for the lack of efficiency, which is honestly rich considering that python has become as popular as it is. The thing that's nice with visual basic from my perspective is the easy creation of user interfaces, combined with the plethora of libraries to handle all the fundamentals making lots of complicated operations significantly simplified. 
-
-Currently the Visual Basic ide of choice is Visual Studio, which is somewhat frustrating when VS Code exists. Microsofts insistence on maintaining the secondary IDE for free versus paying users is not exactly my favorite decision; however, it is understandable. The overall setup of the language is super convenient for creating simple desktop utilities and items of interest which can run on Windows systems with cleanly managed install and uninstall being handled by the platform.
 
 ## Erlang
 I just started learning this language the other night and it was what inspired me to create and document this list. It's an interesting functional programming language. I'm particularly intrigued by the prospect of it deployed on embedded systems where the process system and the shift towards threads may allow much more to be done with much less effort on embedded systems. Effectively adding a form of built in RTOS without the need to handle all that overhead directly. I did find one project which apparently runs it on the RP2040, so I'll be intrigued to give that a go. 

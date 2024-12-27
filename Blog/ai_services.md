@@ -8,6 +8,9 @@ At time of writing this is the one ongoing premium account that I have. I am a f
 ### GPT-4o and GPT-4o mini
 These models are solid incremental improvements, but nothing to really write home about. The cheapness of the mini model makes it a good candidate for long term AI applications, where the the full model can easily start to break the bank on applications which don't turn immediate significant profit. API wrapper companies that have based their entire product line on the Open AI hype-train are probably rolling in gravy given the fine tuning availability for the mini model, and the broad cheapness of it for piling out more generated content. 
 
+### o1 and o1 mini
+The o1 model being Open AI's "Thinking" model is an interesting idea. Simply put the model is trained to essentially reprompt itself to create unshown "Thinking" tokens internally. Which of course on the API the user still has to pay for cause of course they do. The Premium account's 50 messages a day on the mini model and 50 messages a week on the full model makes forming the same kind of reliance relationship as with the more accessible models not really practical. However, for applications where you're getting a more complicated piece of code started the o1 model is quite good. That being said... it would work quite well with a computer use interface I think. 
+
 ## Amazon Bedrock (Amazon Tital Models & Everyone Elses)
 Because I love having access to a Wide Selection of models I've been using Amazon bedrock whenever something new drops. From Claude Opus, to the variety of models from A21 and others it's been a great playground. Only thing I seriously wish is that amazon had a API setup for bedrock and AWS in general as it's annoying to get going with the automated calls. Amazon has a couple of cheap base models of their own, although I haven't heard much of people using them for more major applications. 
 

@@ -1,10 +1,11 @@
 # Devin Atkin
 
-📌 **LinkedIn:** [linkedin.com/in/devin-atkin](https://www.linkedin.com/in/devin-atkin/)  
-📌 **GitHub:** [github.com/devinatkin](https://github.com/devinatkin)  
-📌 **Google Scholar:** [scholar.google.ca Devin Atkin](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ)  
-📧 **Email:** devinatkin@gmail.com  
-📞 **Phone:** 403-830-1177  
+- **LinkedIn:** [linkedin.com/in/devin-atkin](https://www.linkedin.com/in/devin-atkin/)
+- **GitHub:** [github.com/devinatkin](https://github.com/devinatkin)
+- **Google Scholar:** [scholar.google.ca Devin Atkin](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ)
+- **Email:** devinatkin@gmail.com
+- **Phone:** 403-830-1177
+
 
 ---
 

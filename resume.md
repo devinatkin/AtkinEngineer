@@ -21,17 +21,23 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 
 ## Technical Skills
 
-| **Category**          | **Details**                                                                                                                                                                                                 |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Chip Design**       | **Tools:** Cadence Virtuoso, Magic, XScheme, NGSpice<br>**Technologies:** AMS 350nm, TSMC 130nm, Skywater 180nm<br>**Achievements:** Completed 2 tapeouts in AMS 350nm and several additional tapeouts through Skywater 180nm. Proficient in using both closed-source tools like Cadence Virtuoso and open-source tools such as Magic, XScheme, and NGSpice. |
-| **PCB Design**        | **Tools:** DipTrace, Altium, KiCad<br>**Experience:** Analog and Digital Designs, Schematic to Layout                                                                                                        |
-| **FPGA Programming**  | **Platforms:** Xilinx, Altera, and Trion Chips<br>**Languages:** VHDL, SystemVerilog, Verilog<br>**Achievements:** TAed and Co-Instructed ENEL 453 numerous times. I have written and released a set of labs walking students through Xilinx Vivado |
-| **Embedded Systems**  | **Platforms:** AVR, ARM chips<br>**Languages:** C, C++, Python (MicroPython & CircuitPython)                                                                                                                 |
-| **Linux Distributions** | Red Hat, Ubuntu (Server and Workstation Variants)                                                                                                                                                           |
-| **System Administration** | **Tools:** Ansible, Ceph Storage Clustering, Hyper-V, Proxmox, Docker                                                                                                                                       |
-| **Cloud Providers**   | Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                                                                                                                                   |
-| **Web Programming**   | **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                                                                                                                                   |
-| **Other Skills**      | Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance                                                                                                                             |
+| **Category**           | **Details**                                                                                          |
+|------------------------|-----------------------------------------------------------------------------------------------------|
+| **Chip Design**        | - **Tools:** Cadence Virtuoso, Magic, XScheme, NGSpice                                             |
+|                        | - **Technologies:** AMS 350nm, TSMC 130nm, Skywater 180nm                                          |
+|                        | - **Achievements:** Designed multiple tapeouts, including AMS 350nm and Skywater 180nm             |
+| **PCB Design**         | - **Tools:** DipTrace, Altium, KiCad                                                               |
+|                        | - **Experience:** Analog and Digital Designs, Schematic to Layout                                 |
+| **FPGA Programming**   | - **Platforms:** Xilinx, Altera, Trion Chips                                                       |
+|                        | - **Languages:** VHDL, SystemVerilog, Verilog                                                     |
+|                        | - **Achievements:** Developed FPGA labs for ENEL 453, co-instructed multiple sessions              |
+| **Embedded Systems**   | - **Platforms:** AVR, ARM chips                                                                   |
+|                        | - **Languages:** C, C++, Python (MicroPython & CircuitPython)                                     |
+| **Linux Distributions**| - Red Hat, Ubuntu (Server and Workstation Variants)                                               |
+| **System Administration** | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker                                            |
+| **Cloud Providers**    | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                      |
+| **Web Programming**    | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                     |
+| **Other Skills**       | - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance                |
 
 
 ---

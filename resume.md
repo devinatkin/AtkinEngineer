@@ -31,9 +31,9 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 |                        | - **Experience:** Analog and Digital Designs, Schematic to Layout                                 |
 | **FPGA Programming**   | - **Platforms:** Xilinx, Altera, Trion Chips                                                      |
 |                        | - **Languages:** VHDL, SystemVerilog, Verilog                                                     |
-|                        | - **Achievements:** Developed FPGA labs for ENEL 453, co-instructed multiple sessions             |
+|                        | - **Achievements:** Developed FPGA Labs, and Guides for performing FPGAs from Apple Silicon       |
 | **Embedded Systems**   | - **Platforms:** AVR, ARM chips                                                                   |
-|                        | - **Languages:** C, C++, Python (MicroPython & CircuitPython)                                     |
+|                        | - **Languages:** C, C++, Python, Embedded Linux                                    |
 | **Linux Systems**      | - Red Hat, Ubuntu (Server and Workstation Variants)                                               |
 | **System Administration** | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker                                           |
 | **Cloud Providers**    | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                      |
@@ -75,7 +75,7 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 
 **Programming Intern**  
 *Eideticom* (500 Hours)  
-- Worked at [Eideticom](https://www.eideticom.com/) on testing and validation  
+- Worked at [Eideticom](https://www.eideticom.com/) on testing and validation of FPGA Designs 
 - Developed hardware tests and updated an existing Python codebase using Buildbot  
 
 ---

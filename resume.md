@@ -22,25 +22,24 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 
 ## Technical Skills
 
-| **Category**           | **Details**                                                                                       |
-|------------------------|---------------------------------------------------------------------------------------------------|
-| **Chip Design**        | - **Tools:** Cadence Virtuoso, Magic, XScheme, NGSpice                                            |
-|                        | - **Technologies:** AMS 350nm, TSMC 130nm, Skywater 180nm                                         |
-|                        | - **Achievements:** Designed multiple tapeouts, including AMS 350nm and Skywater 180nm            |
-| **PCB Design**         | - **Tools:** DipTrace, Altium, KiCad                                                              |
-|                        | - **Experience:** Analog and Digital Designs, Schematic to Layout                                 |
-| **FPGA Programming**   | - **Platforms:** Xilinx, Altera, Trion Chips                                                      |
-|                        | - **Languages:** VHDL, SystemVerilog, Verilog                                                     |
-|                        | - **Achievements:** Developed FPGA Labs, and Guides for performing FPGAs from Apple Silicon       |
-| **Embedded Systems**   | - **Platforms:** AVR, ARM chips                                                                   |
-|                        | - **Languages:** C, C++, Python, Embedded Linux                                    |
-| **Linux Systems**      | - Red Hat, Ubuntu (Server and Workstation Variants)                                               |
-| **System Administration** | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker                                           |
-| **Cloud Providers**    | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                      |
-| **Web Programming**    | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                     |
-| **Cad Systems**    | - **Tools:** Autocad, Fusion360                                                                       |
-| **Other Skills**       | - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance                |
-
+| **Category**           | **Details**                                                                                     |
+|------------------------|-------------------------------------------------------------------------------------------------|
+| **Chip Design**        | - **Tools:** Cadence Virtuoso, Magic, XScheme, NGSpice                                          |
+|                        | - **Technologies:** AMS 350nm, TSMC 130nm, Skywater 180nm                                       |
+|                        | - **Achievements:** Designed multiple tapeouts, including AMS 350nm and Skywater 180nm          |
+| **PCB Design**         | - **Tools:** DipTrace, Altium, KiCad                                                            |
+|                        | - **Experience:** Analog and Digital Designs, Schematic to Layout                               |
+| **FPGA Programming**   | - **Platforms:** Xilinx, Altera, Trion Chips                                                    |
+|                        | - **Languages:** VHDL, SystemVerilog, Verilog                                                   |
+|                        | - **Achievements:** Developed FPGA Labs, and Guides for performing FPGAs from Apple Silicon     |
+| **Embedded Systems**   | - **Platforms:** AVR, ARM chips                                                                 |
+|                        | - **Languages:** C, C++, Python, Embedded Linux                                                 |
+| **Linux Systems**      | - Red Hat, Ubuntu (Server and Workstation Variants)                                             |
+| **System Administration** | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker                                         |
+| **Cloud Providers**    | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                    |
+| **Web Programming**    | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                   |
+| **Cad Systems**    | - **Tools:** Autocad, Fusion360                                                                     |
+| **Other Skills**       | - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance              |
 
 ---
 
@@ -48,12 +47,12 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 
 **University of Calgary, Alberta**
 
-- **PhD in Electrical Engineering** (2019 – Expected May 2025)  
+- **PhD in Electrical Engineering** (2019 – Expected February 2026)  
   - Transitioned directly from MSc to the PhD program in May 2020  
   - Research Focus: High-Speed CMOS Image Sensors  
   - Completed Transformative Talent Internship Program (TTI)  
 
-- **BSc in Electrical Engineering with Honours** (2019)  
+- **BSc in Electrical Engineering with Honours** (Graduated 2019)  
   - Participated in the Internship Program  
 
 ---

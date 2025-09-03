@@ -40,7 +40,7 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 | **Cloud Providers**    | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                    |
 | **Web Programming**    | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                   |
 | **CAD Systems**        | - **Tools:** Autocad, Fusion360                                                                 |
-| **AI Tools**           | - **Experience:** GitHub Copilot, ChatGPT, Google Vertex AI                                     |
+| **AI Tools**           | - **Experience:** LM Studio, Ollama, Open AI Api, Google Studio API, Codex                      |
 | **Other Skills**       | - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance              |
 
 ---

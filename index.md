@@ -15,7 +15,7 @@ In my [Blog](/blog), I share insights, updates, and reflections on my research, 
 
 ## Resume
 
-For a detailed look at my professional background, including my academic achievements, research projects, and industry experience, visit my [Resume](/resume) page. You'll find information about my skills, publications, and any awards or recognitions I've received.
+For a detailed look at my professional background, including my academic achievements, research projects, and industry experience, visit my [Resume](/resume_page.md) page. You'll find information about my skills, publications, and any awards or recognitions I've received. If you're interested in my resume you may also want to see that I have certificates (Ooooo ['certificates...](Certificates/certificates.md))
 
 ## Projects
 

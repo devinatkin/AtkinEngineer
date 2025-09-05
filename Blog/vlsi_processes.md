@@ -1,5 +1,7 @@
 [Resume](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
 
+![VLSI Process Image](https://ipfs.io/ipns/k51qzi5uqu5dgiqfme9zsslumj9a5hpp2un4rqoybs7noaslq9gphgn2qdduiv)
+
 I've used a handful of different VLSI processes and so I figured it might be worth to note a few of their quirks. VLSI being Very large scale integration, more collequially called silicon design much to the great upset of anyone who designs their materials in GaAs or other semi-conductors beyond the narrow world of silicon. My main design tools have been the Cadence suite of tools, and the open source XScheme + Magic combination. Of the two I'd say that I like XScheme + Magic substantially more and would choose them preferentially assuming that a given kit is able to be run on them. This then becomes the major upset as most kits are sadly setup with versions only to support the massively expensive paid tools. XScheme + Magic may have issues; however, it's free. With the most basic barebones license to Cadence costing $50,000 you have to ask how many months of engineering time does it actually save you. It better save you at least 5 months if starting salaries in the VLSI industry are to be believed. 
 
 ## AMS 350nm

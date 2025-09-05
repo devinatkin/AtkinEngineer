@@ -4,6 +4,9 @@
 As an avid audible listener I've got to say my library has grown continually for the however many years I've actually been a member. Far faster than the 1 Book per month that the default subscription would imply. 166 Titles would imply I'd been a member for almost 14 years. 
 
 ## Off to be the Wizard (Magic 2.0)
+
+![Off to be the Wizard Book Cover](images/OffToBeTheWizard_BookAI.png)
+
 Scott Meyer the author of the book series has a nack for unique takes on older concepts. It's definitely a series which gets a lot of extra leg room in the audio book as some of the descriptions can be a little less descriptive than I'd typically want, but with Luke Denis narrating it's a great listen. I enjoyed it up until the 5th book where the writing of the magical people started to drift away into areas that made some sections difficult to listen to. Without spoiling anything, one of the main characters repeatedly makes an unmagically gifted person go get food and prepare it for them, when they could literally just pull it out of their hat. Despite having promised to provide it on mulitple ocassions. 
 
 - Off to Be the Wizard

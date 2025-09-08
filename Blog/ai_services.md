@@ -23,6 +23,11 @@ Now this is one I've used for one feature and one feature alone. Video Processin
 
 Honestly not sure why this page exists as opposed to being integrated into the existing Vertex AI section of the Google Cloud Platform, although it's not a bad setup regardless, just a bit confusing.
 
+### Nano Banana
+
+![Nano Banana Image](images/Nano_Banana_GradStudent.jpg)
+Google released an awesome new image model. Nano Banana gives some really awesome images and honestly given its quality and speed utterly puts the current offerings from Open AI completely to shame. 
+
 ## LM Studio
 Locally running LLMs. This works, mediocre at best. Perhaps it's just because the machines I run it on have all lacked large beefy GPUs to handle all the models. I mean I've had an Intel Arc but that's not going to be too great. That being said, for quickly playing around with models like Gemma it's very nice. For larger models, I really don't recommend interacting in real time as that just always sucks. Some of the models do have reasonably large input context windows and when those are actually full I've had it take upto 10 minutes to start producing output. So yeah, that was not a great time all things being equal. 
 

@@ -6,6 +6,8 @@ I keep trying new Operating Systems recently and I figured I ought to start docu
 
 ## Windows Server 2022
 
+![Windows Server](images/Windows_Server_Image.png)
+
 I've been trying Windows Server recently spinning up instances for a couple of hours at a time to explore what the system has to offer over either regular Windows or a more traditional linux based server. Powershell as always is not an amazing shell environment; however, with Windows essentially everything can be done through the various graphical interfaces. Theres a lot of good to be said for simply managed DNS servers and the like; however, the big challenge is if you can find the features you're actually looking for. At the price point, it's not necessarily a system that I'd recommend.
 
 ### AppV vs Remote App
@@ -29,6 +31,8 @@ So the pricing for Windows server works out like this:
 This is an insane pricing structure that quite frankly I struggle to wrap my head around. Clearly they don't want you having a mainframe style setup where you have 1 powerful computer shared among employees. A system that would make a lot of sense for a lot of companies, especially in the modern world where things like remote work are becoming quit popular. Windows does have hyper-v so you could run seperate virtual machines on the singular windows server to create some division of setup, but that in a lot of ways feels like unneeded complexity. Still for around $10,000 you could setup a high-powered server which would manage a fleet of around 10 lower powered windows workstations that could be deployed using windows server as both hypervisor and manager. An RDS gateway could be setup to allow a group of employees to seemlessly connect up to their individual machines. You could even throw in some Linux server sif you happen to have the need and want to mix and match. 
 
 ## MacOS 14
+![Mac Os](images/MacOs_Image.png)
+
 An immediate point in favor of Mac is the fact that multiple VNC sessions are allowed in parallel making for a substantially smoother experience supporting multiple users over the headache that is Windows or Windows Server. The basic included office alternative suite known as iWork is also a major plus for anyone wanting to quickly and simply provision an office, especially one that doesn't rely on exchanging files with the rest of the world in terms of office's ubiquitous file formats. That being said I could see managing a fleet like this to be a relatively simple task, especially if one sets up a central server to run commands through. 
 
 Going against good sense is OSx's lack of a good remote desktop system. Apple Remote Desktop may very well be a great application for all I know; however, it's not cross platform . It's not even internally cross platform which seems like a huge missed oprotuntity. Apple Remote Desktop can do some management on iPads and iPhones, but if it supported a full experience so that I could manage a fleet of iPhones and iPads from a Mac, that would almost make up for the lack of cross system support (Note that you can download Microsoft Remote Desktop on essentially any platform, and with Linux you can even serve a linux dekstop over RDP). VNC does work across platforms and allows remote control of Macs as I was initially impressed; however, it's painfully slow out of the box. I've seen some articles claiming that there are ways to speed it up; however, none that I've bothered to implement as of yet given it's too time consuming and my Mac is secondary machine.

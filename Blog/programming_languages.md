@@ -35,6 +35,9 @@ Not as talked about as it honestly deserves to be, but it's a reminder that the 
 The Q Sharp programming language is a quantum computing programming language. They can be run in simulations or even deployed to azure. It seems like a fun way to try and implement random things in a way that they would at least in theory run on a quantum computer. At least It can allow me to stop viewing quantum computers as some sort of strange magical thing.
 
 ## Visual Basic (.NET)
+
+![VB.NET](images/vbnet_language.png)
+
 Another Unjustly hated language, Visual basic was one of the first lanaguages I learned. It's hated for the lack of efficiency, which is honestly rich considering that python has become as popular as it is. The thing that's nice with visual basic from my perspective is the easy creation of user interfaces, combined with the plethora of libraries to handle all the fundamentals making lots of complicated operations significantly simplified. 
 
 Currently the Visual Basic ide of choice is Visual Studio, which is somewhat frustrating when VS Code exists. Microsofts insistence on maintaining the secondary IDE for free versus paying users is not exactly my favorite decision; however, it is understandable. The overall setup of the language is super convenient for creating simple desktop utilities and items of interest which can run on Windows systems with cleanly managed install and uninstall being handled by the platform.
@@ -50,7 +53,7 @@ A properietary language by Mathworks it used to wear a solid crown of gold for i
 With singualar libaries ranging from $500 - $5,000, I think that the only hope for Matlab to remain relevant long term is to open up their language as a whole while charging for their libaries. The most basic Matlab license is $980, add a simulink license onto there and you're looking at $1,480 more. This is insane when I can pop onto python and do most operations just as quickly, if not quicker thanks to the internets familiarity with Python making resources more easily available. 
 
 ## Rust
-I've never done a major project in rust; however, I've tutored it. And honestly having to learn it in that fashion just ahead of a student. It was the right call. It's a really nice language for efficient operation, and while its memory safety features makes it painful to code in at times, it also makes it a delightful challenge to get done whatever is needed. Their package manager system is great for running and compiling code with one of the many crates that provide higher level functionaltiy so that you don't need to. 
+I've never done a major project in rust; however, I've tutored it. And honestly having to learn it in that fashion just ahead of a student. It was the right call. It's a really nice language for efficient operation, and while its memory safety features makes it painful to code in at times, it also makes it a delightful challenge to get done whatever is needed. Their package manager system is great for running and compiling code with one of the many crates that provide higher level functionaltiy so that you don't need to. There's also rust support on the new microcontroller from raspberry pi which is a brilliant addition that I look forward to seeing more of.
 
 ## Go 
 Not a bad language. Taught myself a bit of it over a couple of evenings. Mainly just to the hello world level; however, I can see why the language is popular with so many developers. I considered recreating and improving upon some VB.net code I wrote in high-school; however, I ended up running into issues with out of date libraries and decided to hold off on the project, or swap to something simpler if I chose to rewrite the code. 

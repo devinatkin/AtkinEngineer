@@ -11,7 +11,7 @@
 
 ## Summary
 
-I am finishing my PhD in Electrical Engineering and expect to complete it within the year. I am eager to transition into industry and apply my expertise to real-world challenges. 
+I am finishing my PhD in Electrical Engineering and expect to defend in February 2026. I am eager to transition into industry and apply my expertise to real-world challenges. 
 My technical background spans all scales of electrical engineering from Low Voltage to High Voltage, from nanometers to kilometers. 
 The diversity of my technical background has given me a wide base that allows me to quickly adapt to new technologies and environments in a meaningful way. 
 I am seeking a role where I can contribute meaningfully to the organization while gaining greater technical expertise.

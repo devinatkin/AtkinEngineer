@@ -32,6 +32,8 @@ Welcome to my professional development page! Below is a curated list of certific
 - **[Privacy Awareness](./PrivacyAwareness_DevinAtkin.pdf)**  
   Training on the importance of data privacy and how to comply with privacy regulations.
 
+- **[Privacy Awareness - Follow Up](./PrivacyAwareness_DevinAtkin2.pdf)**  
+  Follow-up training.
 
   ## Research Security
   - **[Research Security Completion Certificate](./ResearchSecurity_Completion_Certificate.pdf)**  

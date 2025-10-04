@@ -38,6 +38,8 @@ Welcome to my professional development page! Below is a curated list of certific
   ## Research Security
   - **[Research Security Completion Certificate](./ResearchSecurity_Completion_Certificate.pdf)**  
     Certification demonstrating knowledge of research security protocols and best practices.
+  - **[Research Security Government Certificate](./ResearchSecurity_Government_Certificate.pdf)**  
+    Government-issued certification verifying expertise in research security standards and compliance.
   - **[Deepfake Training Certificate](./DeepfakeTrainingCert.pdf)**  
     Certification covering the identification, risks, and mitigation strategies related to deepfake technologies.
 ---

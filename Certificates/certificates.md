@@ -42,6 +42,12 @@ Welcome to my professional development page! Below is a curated list of certific
     Government-issued certification verifying expertise in research security standards and compliance.
   - **[Deepfake Training Certificate](./DeepfakeTrainingCert.pdf)**  
     Certification covering the identification, risks, and mitigation strategies related to deepfake technologies.
+
+---
+## Professional Development
+- **[CICE Professional Development / Attendance Certificate](./CICE_Certificates.pdf)**  
+  20 units of professional development (PD) credit — attendance certificate for CICE training.
+
 ---
 
 Each certificate reflects my focus on maintaining a secure, safe, and productive work environment while staying updated with industry standards.

@@ -7,7 +7,7 @@ What most people think I mean is that you need to be equally comfortable in any 
 That isn't quite it. You need to know the tropes of the big 3 (Windows, MacOS, and Some Generic Linux Desktop). If I put you in front of Mint Linux, then you should be able to open a web browser and operate there. 
 If I put you in front of Mac OS you shouldn't run away screaming. 
 
-- Learn the Terminal in Each Operating System. Bash is your friend, even you secretly like to hand out with c-shell on the weekends. 
+- Learn the Terminal in Each Operating System. Bash is your friend, even you secretly like to hang out with c-shell on the weekends. 
 
 2) 3... 2... 1... Backup Methodology. 
 Don't get caught unawares. Technology fails. Even reliable tech like google drive. You want to have 3 copies of your important data, in at least 2 different physical locations, with at least 1 redundant format. 

@@ -6,19 +6,6 @@
 - **Email:** devinatkin@gmail.com
 - **Phone:** 403-830-1177
 
-
----
-
-## Summary
-
-I am finishing my PhD in Electrical Engineering and expect to defend in February 2026. I am eager to transition into industry and apply my expertise to real-world challenges. 
-My technical background spans all scales of electrical engineering from Low Voltage to High Voltage, from nanometers to kilometers. 
-The diversity of my technical background has given me a wide base that allows me to quickly adapt to new technologies and environments in a meaningful way. 
-I am seeking a role where I can contribute meaningfully to the organization while gaining greater technical expertise.
-I am always down for a new adventure and live by the mantra that a jack of all trades, master of none, is still always better than master of one.
-
-Explore my research and development work on my [GitHub](https://github.com/devinatkin) and [Google Scholar](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ).
-
 ---
 
 ## Technical Skills
@@ -49,10 +36,11 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 
 **University of Calgary, Alberta**
 
-- **PhD in Electrical Engineering** (2019 – Expected February 2026)  
+- **PhD Work in Electrical Engineering** (2019 – Date)  
   - Transitioned directly from MSc to the PhD program in May 2020  
-  - Research Focus: High-Speed CMOS Image Sensors and AI Substantiation of small signal datasets
+  - Research Focus: High-Speed CMOS Image Sensors and AI Substantiation of Small Datasets
   - Completed Transformative Talent Internship Program (TTI)  
+  - Expected to Defend Early 2026
 
 - **BSc in Electrical Engineering with Honours** (Graduated 2019)  
   - Participated in the Internship Program  
@@ -61,12 +49,11 @@ Explore my research and development work on my [GitHub](https://github.com/devin
 
 ## Experience
 
-**Lab Assistant Director**  
-*University of Calgary, I2Sense Laboratory* (May 2019 – Date)  
+**Technical Operations and Researcher**  
+*University of Calgary, I2Sense Laboratory* (May 2019 – February 2026)  
 - Conducted research focusing on high-speed wide dynamic range CMOS sensors  
-- Managed lab safety, licensing, equipment, and marketing efforts  
-- Oversaw lab IT infrastructure, managed access control, and maintained critical research equipment.
-- Developed and maintained web applications for FL2F training workshops. 
+- Managed Lab Equipment Maintenance and Replacement 
+- Developed and maintained a variety of Web Applications. 
 
 **Programming Intern**  
 *Eideticom* (500 Hours - 2024)  

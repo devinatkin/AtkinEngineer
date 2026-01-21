@@ -19,11 +19,11 @@
 |                        | - **Experience:** Analog and Digital Designs, Schematic to Layout                               |
 | **FPGA Programming**   | - **Platforms:** Xilinx, Altera, Trion Chips                                                    |
 |                        | - **Languages:** VHDL, SystemVerilog, Verilog                                                   |
-|                        | - **Achievements:** Developed FPGA Labs, and Guides for performing FPGAs from Apple Silicon     |
+|                        | - **Achievements:** Developed FPGA Labs, Guides for performing FPGA design from Apple Silicon   |
 | **Embedded Systems**   | - **Platforms:** AVR, ARM chips                                                                 |
 |                        | - **Languages:** C, C++, Python, Embedded Linux                                                 |
 | **Linux Systems**      | - Red Hat, Ubuntu (Server and Workstation Variants)                                             |
-| **System Administration** | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker                                         |
+| **System Administration** | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker, ssh, telnet                            |
 | **Cloud Providers**    | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                    |
 | **Web Programming**    | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                   |
 | **CAD Systems**        | - **Tools:** Autocad, Fusion360                                                                 |

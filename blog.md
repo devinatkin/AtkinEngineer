@@ -3,6 +3,7 @@
 Bloggy things I've written. Writing quality is not guaranteed as I aim to update these over time to add more details and the like.
 # What Exactly am I Working on in the Moment
 - [January 9th 2026](Blog\dated\january\january9_2026)  
+- [January 16th 2026](Blog\dated\january\january16_2026)  
 
 ## Specific Writing
 - [Services For Starting](Blog\services_for_starting)  

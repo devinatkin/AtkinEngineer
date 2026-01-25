@@ -1,4 +1,4 @@
-[Resume](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
 
 What AI Services am I using and why am I using those AI services.
 

@@ -1,4 +1,4 @@
-[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 # Ansible
 Ansible is an amazing tool for operating larger numbers of servers quickly and painlessly. Essentially it handles things like, but not limited to, hey I need to install this software on 100 machines, but I don't want to lose my mind while doing it. Do it for me. There is certainly a bit of pain getting started with Ansible as the yaml format can be fairly difficult to get used to, and the sheer number of actions that have already been written can leave you reimplementing things several times while optimizing your Ansible Playbook (The Thing you run to perform the needed configuration). If you want a full and in detail guide I've been enjoying Jeff Geerling's book on the topic, and would highly recommend it. Otherwise these are simply a few of my own notes on the topic. 

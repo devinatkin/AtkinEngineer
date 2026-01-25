@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Resume](..\..\resume), [Projects](..\..\projects), [Blog](..\..\blog)
+[Work With Me](..\..\resume), [Projects](..\..\projects), [Blog](..\..\blog)
 
 # Icosahedron
 

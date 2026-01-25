@@ -1,4 +1,4 @@
-[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 # Musings
 Just a page where I dabble in partially formed thoughts. Getting them onto paper, or rather Web, so that I can more fully form them.

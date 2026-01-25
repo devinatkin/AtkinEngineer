@@ -1,5 +1,5 @@
 This is in progress. If you found this page turn around...
-[Resume](resume_page.md) [Projects](projects.md), [Blog](blog.md)
+[Work With Me](resume_page.md) [Projects](projects.md), [Blog](blog.md)
 
 I have a Eumig Viennette 3 Super 8 Camera which I quite like the feeling of. It has taken nice videos when I've used it in the past, and I really want to continue using it. I'm not some hipster idiot. I just like the feel of the analog camera, the level of thought required to get shots worth taking, and frankly I'm in front of the computer enough that the idea of shooting on super 8 simply to avoid living permanently on a computer is enough. I got the camera initially on vacation when we found it in an antiques store. It was cheap, and came with a roll of unshot film (Kodachrome so no point in shooting it without a friend whoose very into doing complicated chemsitry). It didn't work to begin with because, first the film was inserted the wrong way around..., and second more annoyingly the battery holder was gone. 
 

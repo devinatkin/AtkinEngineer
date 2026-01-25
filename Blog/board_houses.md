@@ -1,4 +1,4 @@
-[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 I've used relatively few board houses; however, this page will just record my basic thoughts on those that I have used.
 
@@ -24,3 +24,5 @@ PCBWay is on my to try list. But mainly for some of their advanced features that
 - I want to try blind and burried vias in my designs. I've had cases where they'd help dramatically, but I haven't used them because it didn't offer enough benefit tp justify going with a different board house. 
 - I want to try carbon ink pcbs. Assuming that these could be used as resistances and not simply controlled impedance traces, it might be a wonderful system for limiting component counts. 
 - I want to try cavity pcbs. I think it would be very interesting to shrink a design by literally stacking components on top of one another. Combined with mounting PCBs onto one another, it might make a great way to have some truely high density designs in three dimensions which is not a common way to shrink your system. 
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dmatkin" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script>

@@ -1,4 +1,4 @@
-[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 # My Book Recommendations
 As an avid audible listener I've got to say my library has grown continually for the however many years I've actually been a member. Far faster than the 1 Book per month that the default subscription would imply. 166 Titles would imply I'd been a member for almost 14 years. 

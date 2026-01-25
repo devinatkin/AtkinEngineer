@@ -1,4 +1,4 @@
-[Resume](resume_page.md), [Projects](projects.md), [Blog](blog.md)
+[Work With Me](resume_page.md), [Projects](projects.md), [Blog](blog.md)
 
 # A list of projects I've undertaken. 
 I haven't finished transferring things over to this website... I also in general need to get better at documenting my hoppy projects. 

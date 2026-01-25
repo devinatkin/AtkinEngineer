@@ -1,4 +1,4 @@
-[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 # MOTD and other Fun Configs
 So few people spend the time to setup their computers to really reflect them that it's a bit of a shame. And it's especially a shame among IT type people who are supposed to treat their computers with a bit more enjoyment. There are a few enjoyable things that I've setup on a decent (but not all) number of the servers that I operate on regularly. 

@@ -1,4 +1,4 @@
-[Resume](resume_page.md) [Projects](projects.md), [Blog](blog.md)
+[Work With Me](resume_page.md) [Projects](projects.md), [Blog](blog.md)
 
 Bloggy things I've written. Writing quality is not guaranteed as I aim to update these over time to add more details and the like.
 # What Exactly am I Working on in the Moment

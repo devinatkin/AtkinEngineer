@@ -1,4 +1,4 @@
-[Resume](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 # 3... 2... 1... Backups
 The rule for best practice backups is that you need to have three copies of anything important, stored in at least 2 different media, with at least 1 seperate location. This way if a site gets destroyed (Say Google Suddenly Cancels Google Drive, they've canceled weirder), you still have whatever is at your other location. If one format becomes difficult to read (Say CD players become untennable to get ahold of as obsolete tech), you still have the alternate format for your data. Overall this strategy makes you safe to most data loss events. If you keep things organized with your backups you also have the ability to always find things as you go through this. 

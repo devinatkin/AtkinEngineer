@@ -1,4 +1,4 @@
-[Resume](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
 
 # Programming Langauges I've Tried
 I figured that as I'm not going to write an exhaustive list of programming languages I've worked with on my resume (Mainly because a lot of them I'm not actively fluent in, or I haven't used in a number of years so I'm out of practice with) it would be a good idea for me to have a post where I can list out every language I've gotten to hello world or later with. I won't be including any joke languages or childrens languages as I don't consider those worth noting given nobody has seriously built anything of note with them outside of jokes. That being said I will include low code systems as they attempt to be things that people can build real things with.

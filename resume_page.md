@@ -22,3 +22,6 @@ I’m also open to short-term consulting for well-scoped engineering work.
 ---
 
 {% include_relative resume.md %}
+
+<script data-goatcounter="https://devinatkin.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

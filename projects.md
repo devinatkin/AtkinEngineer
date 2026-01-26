@@ -16,3 +16,6 @@ For now it's a graveyard.
 - [HDLx2416-Display](https://youtu.be/kw68b5dUZck)
 - [Electric-Imp-BedsideLight](https://youtu.be/iagQigvVBpA)
 - [Playing-With-A-SuperCap](https://youtu.be/gzYzHsVv6Cw)
+
+<script data-goatcounter="https://devinatkin.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

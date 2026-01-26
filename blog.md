@@ -22,3 +22,6 @@ Bloggy things I've written. Writing quality is not guaranteed as I aim to update
 - [Ansible](Blog\ansible)
 - [Notes Repos](Blog\note_repo)
 - [Musings and Scribles](Blog\musings)
+
+<script data-goatcounter="https://devinatkin.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -21,3 +21,5 @@ For a detailed look at my professional background, including my academic achieve
 
 My [Projects](/projects) page showcases a portfolio of my work, featuring both practical applications developed during my work and fun projects I've undertaken over the years.
 
+<script data-goatcounter="https://devinatkin.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -1,4 +1,4 @@
-[Work With Me](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
+[Work With Me](../resume_page.md) [Projects](../projects.md), [Blog](../../blog.md)
 
 # Janauary 9th 2026
 - If I had more time I would have written you a shorter letter. There's some rumblings of a potential startup in the future; however, only time will tell. Regardless of if it ends up occuring it's brought to mind old lessons in project management. For instance the true cost of employment for an engineering undergraduate intern comes to roughly $100 per hour. That seems insane; however, it needs to accomodate equipment they're using, taxes on their time, and even the lights in the office. To avoid sounding too much like a LinkedIn lunatic I'll leave this particular thought with two tidbits, one that quote in sentence one is often falsely attributed to Mark Twain (Apparently falsely, I couldn't be bothered to look it up, and two )

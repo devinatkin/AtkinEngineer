@@ -1,7 +1,8 @@
+# Devin Atkin
+
 ### Other Pages
 [Work With Me](resume_page.md), [Projects](projects.md), [Blog](blog.md)
 
-# Devin Atkin
 
 Welcome to my personal portfolio on GitHub Pages. I am a PhD Student in Electrical Engineering based in Calgary, Alberta. My passion lies in exploring the intricate world of electrical engineering, from theoretical research to practical applications. Through this portfolio, I aim to share my journey, insights, and creations with you.
 

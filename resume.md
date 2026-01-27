@@ -4,7 +4,7 @@
 - **GitHub:** [github.com/devinatkin](https://github.com/devinatkin)
 - **Google Scholar:** [http://short.atkin.engineer/Nhv8a](https://scholar.google.ca/citations?user=oEhhV_4AAAAJ)
 - **Email:** devin@atkin.engineer
-- **Phone:** 403-830-1177
+- **Phone:** (403)-830-1177
 
 ---
 

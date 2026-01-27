@@ -32,7 +32,9 @@ jobs:
 
             - name: Convert Markdown to PDF
               run: |
-                pandoc resume.md -o Resume.pdf
+                  pandoc resume.md \
+                  -V geometry:margin=0.75in \
+                  -o Resume.pdf
 
             - name: Upload Resume PDF
               uses: actions/upload-artifact@v4

@@ -2,7 +2,9 @@
 
 **Electrical Engineer in Training** | Calgary, AB
 
-📧 devin@atkin.engineer | 📱 (403)-830-1177 | 🔗 [LinkedIn](https://linkedin.com/in/devin-atkin)
+- **LinkedIn:** [linkedin.com/in/devin-atkin](https://www.linkedin.com/in/devin-atkin/)
+- **Email:** devin@atkin.engineer
+- **Phone:** (403)-830-1177
 
 ## Professional Summary
 

@@ -10,25 +10,29 @@
 
 ## Technical Skills
 
-| **Category**           | **Details**                                                                                     |
-|------------------------|-------------------------------------------------------------------------------------------------|
-| **Chip Design**        | - **Tools:** Cadence Virtuoso, Magic, XScheme, NGSpice                                          |
-|                        | - **Technologies:** AMS 350nm, TSMC 130nm, Skywater 180nm                                       |
-|                        | - **Achievements:** Designed multiple tapeouts, including AMS 350nm and Skywater 180nm          |
-| **PCB Design**         | - **Tools:** DipTrace, Altium, KiCad                                                            |
-|                        | - **Experience:** Analog and Digital Designs, Schematic to Layout                               |
-| **FPGA Programming**   | - **Platforms:** Xilinx, Altera, Trion Chips                                                    |
-|                        | - **Languages:** VHDL, SystemVerilog, Verilog                                                   |
-|                        | - **Achievements:** Developed FPGA Labs, Guides for performing FPGA design from Apple Silicon   |
-| **Embedded Systems**   | - **Platforms:** AVR, ARM chips                                                                 |
-|                        | - **Languages:** C, C++, Python, Embedded Linux                                                 |
-| **Linux Systems**      | - Red Hat, Ubuntu (Server and Workstation Variants)                                             |
-| **System Administration** | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker, ssh, telnet                            |
-| **Cloud Providers**    | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                    |
-| **Web Programming**    | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                   |
-| **CAD Systems**        | - **Tools:** Autocad, Fusion360                                                                 |
-| **AI Tools**           | - **Experience:** LM Studio, Ollama, Open AI Api, Google Studio API, Codex                      |
-| **Other Skills**       | - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance              |
+| **Category**                   | **Details**                                                                                     |
+|--------------------------------|-------------------------------------------------------------------------------------------------|
+| **Embedded Systems**           | - **Platforms:** ARM-based embedded Linux systems (custom Buildroot Boards).                    |
+|                                | - **Languages:** C, C++, Python                                                                 |
+|                                | - **Experience:** Board Bring Up, Cross-Layer Debugging, Low-Level Hardware interaction.        | 
+| **Networking & Connectivity**  | - **Protocols:** TCP/IP, IPv4/IPv6                                                              |
+|                                | - **Experience:** Linux networking configuration, routing, NAT, firewall rules                  |
+|                                | - **Diagnostics:** SSH, Telnet, packet-level troubleshooting, cross-layer issue isolation       |
+| **PCB Design**                 | - **Tools:** DipTrace, Altium, KiCad                                                            |
+|                                | - **Experience:** Analog and Digital Designs, Schematic to Layout                               |
+| **FPGA Programming**           | - **Platforms:** Xilinx, Altera, Trion Chips                                                    |
+|                                | - **Languages:** VHDL, SystemVerilog, Verilog                                                   |
+|                                | - **Achievements:** Developed FPGA Labs, Guides for performing FPGA design from Apple Silicon   |
+| **Linux Systems**              | - Red Hat, Ubuntu (Server and Workstation Variants)                                             |
+| **System Administration**      | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker.                                           |
+| **Chip Design**                | - **Tools:** Cadence Virtuoso, Magic, XScheme, NGSpice                                          |
+|                                | - **Technologies:** AMS 350nm, TSMC 130nm, Skywater 180nm                                       |
+|                                | - **Achievements:** Designed multiple tapeouts, including AMS 350nm and Skywater 180nm          |
+| **Cloud Providers**            | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                    |
+| **Web Programming**            | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                   |
+| **CAD Systems**                | - **Tools:** Autocad, Fusion360                                                                 |
+| **AI Tools**                   | - **Experience:** LM Studio, Ollama, Open AI API, Google Studio API, Codex                      |
+| **Other Skills**               | - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance              |
 
 ---
 
@@ -36,11 +40,11 @@
 
 **University of Calgary, Alberta**
 
-- **PhD Work in Electrical Engineering** (2019 – Date)  
+- **PhD Work in Electrical Engineering** (2019 – September 2026)  
   - Transitioned directly from MSc to the PhD program in May 2020  
   - Research Focus: High-Speed CMOS Image Sensors and AI Substantiation of Small Datasets
   - Completed Transformative Talent Internship Program (TTI)  
-  - Expected to Defend Early 2026
+  - September 2026 is the deadline for defence. The delay is primarily driven by scheduling. 
 
 - **BSc in Electrical Engineering with Honours** (Graduated 2019)  
   - Participated in the Internship Program  

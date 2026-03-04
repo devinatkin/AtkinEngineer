@@ -33,6 +33,8 @@
 - **BSc in Electrical Engineering with Honours** (Graduated 2019)
   - Participated in the Internship Program
 
+**Professional Affiliations:** APEGA EIT, IEEE Member
+
 ---
 
 ## Experience
@@ -53,10 +55,3 @@
 - Performed price estimation for numerous power distribution projects across northern Alberta, ranging from $20,000 to $1 million  
 - Designed various small to medium electrical service deployments across northern Alberta  
 - Automated the generation of certain estimate documents to improve efficiency and accuracy  
-
----
-
-## Memberships
-
-- APEGA Membership (Maintained EIT Status)  
-- IEEE Membership  

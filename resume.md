@@ -10,44 +10,27 @@
 
 ## Technical Skills
 
-| **Category**                   | **Details**                                                                                     |
-|--------------------------------|-------------------------------------------------------------------------------------------------|
-| **Embedded Systems**           | - **Platforms:** ARM-based embedded Linux systems (custom Buildroot Boards).                    |
-|                                | - **Languages:** C, C++, Python                                                                 |
-|                                | - **Experience:** Board Bring Up, Cross-Layer Debugging, Low-Level Hardware interaction.        | 
-| **Networking & Connectivity**  | - **Protocols:** TCP/IP, IPv4/IPv6                                                              |
-|                                | - **Experience:** Linux networking configuration, routing, NAT, firewall rules                  |
-|                                | - **Diagnostics:** SSH, Telnet, packet-level troubleshooting, cross-layer issue isolation       |
-| **PCB Design**                 | - **Tools:** DipTrace, Altium, KiCad                                                            |
-|                                | - **Experience:** Analog and Digital Designs, Schematic to Layout                               |
-| **FPGA Programming**           | - **Platforms:** Xilinx, Altera, Trion Chips                                                    |
-|                                | - **Languages:** VHDL, SystemVerilog, Verilog                                                   |
-|                                | - **Achievements:** Developed FPGA Labs, Guides for performing FPGA design from Apple Silicon   |
-| **Linux Systems**              | - Red Hat, Ubuntu (Server and Workstation Variants)                                             |
-| **System Administration**      | - **Tools:** Ansible, Ceph, Hyper-V, Proxmox, Docker.                                           |
-| **Chip Design**                | - **Tools:** Cadence Virtuoso, Magic, XScheme, NGSpice                                          |
-|                                | - **Technologies:** AMS 350nm, TSMC 130nm, Skywater 180nm                                       |
-|                                | - **Achievements:** Designed multiple tapeouts, including AMS 350nm and Skywater 180nm          |
-| **Cloud Providers**            | - Google Cloud, Amazon Web Services, DigitalOcean, IBM Cloud                                    |
-| **Web Programming**            | - **Languages & Frameworks:** Python (Flask), JavaScript (Node.js), C# (.NET)                   |
-| **CAD Systems**                | - **Tools:** Autocad, Fusion360                                                                 |
-| **AI Tools**                   | - **Experience:** LM Studio, Ollama, Open AI API, Google Studio API, Codex                      |
-| **Other Skills**               | - Buildbot, Soldering, Oscilloscope, Vector Network Analyzer, Computer Maintenance              |
-
+- **Analog / Mixed-Signal IC Design:** Cadence Virtuoso, NGSpice, Magic; transistor-level CMOS design, AMS 350 nm, TSMC 130 nm, SkyWater 180 nm tapeouts
+- **CMOS Image Sensors:** High-speed sensor architectures, wide dynamic range pixel design, experimental readout architectures
+- **FPGA & Digital Design:** VHDL, Verilog, SystemVerilog; Xilinx, Altera, Trion platforms; FPGA prototyping and lab development
+- **Embedded Systems:** ARM embedded Linux (Buildroot), board bring-up, low-level hardware debugging
+- **PCB & Hardware Design:** Altium, KiCad, DipTrace; mixed-signal schematic and layout
+- **Software & Scripting:** Python, C, C++, JavaScript, C#; Flask, Node.js
+- **Linux & Infrastructure:** Linux administration, networking (TCP/IP, IPv4/IPv6), Proxmox, Docker, Ansible, Ceph
+- **Lab & Engineering Tools:** Oscilloscopes, VNA, soldering, Buildbot CI
 ---
 
 ## Education
 
 **University of Calgary, Alberta**
 
-- **PhD Work in Electrical Engineering** (2019 – September 2026)  
-  - Transitioned directly from MSc to the PhD program in May 2020  
-  - Research Focus: High-Speed CMOS Image Sensors and AI Substantiation of Small Datasets
-  - Completed Transformative Talent Internship Program (TTI)  
-  - September 2026 is the deadline for defence. The delay is primarily driven by scheduling. 
-
-- **BSc in Electrical Engineering with Honours** (Graduated 2019)  
-  - Participated in the Internship Program  
+- **PhD in Electrical Engineering** (2019 – September 2026)
+  - Transitioned from MSc to PhD program (May 2020)
+  - Research focus: High-Speed CMOS Image Sensors and AI-driven small dataset analysis
+  - Completed Transformative Talent Internship Program (TTI)
+  - Defence deadline: September 2026
+- **BSc in Electrical Engineering with Honours** (Graduated 2019)
+  - Participated in the Internship Program
 
 ---
 

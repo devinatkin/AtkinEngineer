@@ -23,3 +23,4 @@ Bloggy things I've written. Writing quality is not guaranteed as I aim to update
 - [Ansible](Blog\ansible)
 - [Notes Repos](Blog\note_repo)
 - [Musings and Scribles](Blog\musings)
+- [Cloud Providers](Blog\cloud_compute_services)

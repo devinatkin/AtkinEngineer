@@ -40,7 +40,7 @@ jobs:
                   -o Resume.pdf
 
             - name: Upload Resume PDF
-              uses: actions/upload-artifact@v5
+              uses: actions/upload-artifact@v6
               with:
                 name: Resume
                 path: Resume.pdf
@@ -63,7 +63,7 @@ jobs:
                     -o Resume-Power.pdf
 
             - name: Upload power resume
-              uses: actions/upload-artifact@v5
+              uses: actions/upload-artifact@v6
               with:
                   name: Resume-Power
                   path: Resume-Power.pdf

@@ -3,6 +3,7 @@
 # A list of projects I've undertaken. 
 Additional projects are being documented and will be added.
 
+- [SOAP] (Projects\SOAP\SOAP)
 - [TIL311](Projects\TIL311\TIL311)  
 - [Icosahedron](Projects\Icosahedron\Icosahedron)
 - [TT04](Projects\TT04\TT04)

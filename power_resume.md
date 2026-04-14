@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Electrical Engineer in Training with experience in power distribution design, cost estimation, and utility standards compliance, complemented by a strong analytical and automation background. Former Distribution Powerline Designer at ATCO Electric, with hands-on experience supporting real-world utility projects across northern Alberta. Currently completing a PhD in Electrical Engineering with strong emphasis on modelling, validation, and systems reliability.
+Electrical Engineer in Training with experience in power distribution design, cost estimation, and utility standards compliance, complemented by a strong analytical and automation background. Former Distribution Powerline Designer at ATCO Electric, with hands-on experience supporting real-world utility projects across northern Alberta. 
 
 ## Core Competencies
 

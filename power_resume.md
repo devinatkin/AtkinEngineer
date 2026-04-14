@@ -32,7 +32,7 @@ Electrical Engineer in Training with experience in power distribution design, co
 ## Professional Experience
 
 ### Distribution Powerline Designer
-**ATCO Electric** | January 2017 – December 2017
+**ATCO Electric**
 
 - Designed distribution service deployments across northern Alberta
 - Produced cost estimates for projects ranging from $20k to $1M
@@ -41,23 +41,18 @@ Electrical Engineer in Training with experience in power distribution design, co
 - Operated within utility standards and approval processes
 
 ### Technical Operations & Researcher
-**University of Calgary – I2Sense Laboratory** | May 2019 – February 2026
+**University of Calgary – I2Sense Laboratory** 
 
 - Conducted applied engineering research on complex electrical systems
 - Maintained shared laboratory equipment with uptime and safety requirements
 - Developed internal tools for engineering workflows and data validation
 
 ### Programming Intern
-**Eideticom** | 2024 (500 hours)
 
 - Supported hardware system testing and validation
 - Developed automated test infrastructure and documentation
 
 ## Education
-
-**PhD in Electrical Engineering** (In Progress)
-University of Calgary | Expected defense: Early 2026
-Focus: System modelling, validation, and measurement
 
 **BSc in Electrical Engineering** (Honours)
 University of Calgary | Internship program participant

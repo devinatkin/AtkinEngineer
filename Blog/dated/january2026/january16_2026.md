@@ -1,3 +1,7 @@
+---
+layout: default
+title: January 16th, 2026
+---
 [Work With Me](../../resume_page.md) [Projects](../../projects.md), [Blog](../../blog.md)
 
 # January 16th, 2026

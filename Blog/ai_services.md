@@ -1,5 +1,6 @@
-[Work With Me](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
-
+---
+layout: default
+---
 What AI Services am I using and why am I using those AI services.
 
 ## ChatGPT Premium and Open AI API

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Projects](projects.md), [Blog](blog.md)
 
 # Work With Me

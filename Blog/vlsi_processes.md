@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Work With Me](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
 
 ![VLSI Process Image](https://ipfs.io/ipns/k51qzi5uqu5dgiqfme9zsslumj9a5hpp2un4rqoybs7noaslq9gphgn2qdduiv)

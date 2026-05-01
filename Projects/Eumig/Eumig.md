@@ -1,3 +1,6 @@
+---
+layout: default
+---
 This is in progress. If you found this page turn around...
 [Work With Me](resume_page.md) [Projects](projects.md), [Blog](blog.md)
 

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 
 It's animated. It's a favicon... Need I say more. Well I probably should just cause I'm trying to be good about writing and keep people entertained with my words. 

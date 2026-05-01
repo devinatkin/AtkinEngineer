@@ -39,6 +39,7 @@
 ## Leadership and Community Involvement
 
 **Mentorship of Undergraduate Students (Capstone / Research Projects)**
+
 - Supervised multiple undergraduate capstone teams (2020–2026) across software and hardware domains, serving as both academic and industry advisor. 
 - Providing technical direction, project scoping, and design guidance as needed throughout the project lifecycle.
 - Led a software-focused capstone team (Fall 2025 – Winter 2026) developing a custom tool for managing distributed web infrastructure.
@@ -46,15 +47,18 @@
 - Mentored multiple hardware-focused teams (2020 – 2022) on custom silicon design projects, including architecture development and prototyping workflows.
 
 **Undergraduate Team Infrastructure Support**, Schulich on a Chip Team — 2025-Present
+
 - Maintained and managed core team infrastructure, including email hosting and credential management.
 - Ensured reliable access to shared resources for student-led development activities.
 
 **Lab Assistant Director**, I2Sense Laboratory, University of Calgary — 2019-2025
+
 - Supported day-to-day lab operations, including mentoring junior students and coordinating research activities.
 - Assisted in onboarding and training undergraduate and graduate researchers.
 - Contributed to maintaining a collaborative and productive research environment.
 
 **STEM Outreach Presenter**, Varsity Acres School (Calgary Board of Education) — *2019*
+
 - Delivered full-day outreach presentations to Kindergarten and Grade 2 classes on applied science topics, including live demonstrations.
 - Engaged multiple classrooms (~8 sessions) to promote early interest in STEM.
 ## Honors & Awards

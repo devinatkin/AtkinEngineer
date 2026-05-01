@@ -21,5 +21,5 @@ I’m also open to short-term consulting for well-scoped engineering work.
 
 ---
 
-{% include_relative resume.md %}
+{% include_relative ResumeAndCV\resume.md %}
 

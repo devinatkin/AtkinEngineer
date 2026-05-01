@@ -3,14 +3,12 @@ name: Convert Resume to PDF
 on:
     push:
         paths:
-            - 'resume.md'
-            - 'power_resume.md'
+            - 'ResumeAndCV/**'
         branches:
             - main  # or any branch you want this action to run on
     pull_request:
         paths:
-            - 'resume.md'
-            - 'power_resume.md'
+            - 'ResumeAndCV/**'
         branches:
             - main  # or any branch you want this action to run on
     workflow_dispatch:  # Allows manual triggering of the workflow
@@ -35,15 +33,15 @@ jobs:
 
             - name: Convert Markdown to PDF
               run: |
-                  pandoc resume.md \
+                  pandoc ResumeAndCV/resume.md \
                   -V geometry:margin=0.75in \
-                  -o Resume.pdf
+                  -o ResumeAndCV/Resume.pdf
 
             - name: Upload Resume PDF
               uses: actions/upload-artifact@v6
               with:
                 name: Resume
-                path: Resume.pdf
+                path: ResumeAndCV/Resume.pdf
     convert-power-resume:
         runs-on: ubuntu-latest
         needs: convert-general-resume
@@ -58,12 +56,12 @@ jobs:
 
             - name: Build power resume
               run: |
-                  pandoc power_resume.md \
+                  pandoc ResumeAndCV/power_resume.md \
                     -V geometry:margin=0.75in \
-                    -o Resume-Power.pdf
+                    -o ResumeAndCV/Resume-Power.pdf
 
             - name: Upload power resume
               uses: actions/upload-artifact@v6
               with:
                   name: Resume-Power
-                  path: Resume-Power.pdf
+                  path: ResumeAndCV/Resume-Power.pdf

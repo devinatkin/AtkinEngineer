@@ -4,8 +4,6 @@ title: January 16th, 2026
 ---
 [Work With Me](../../resume_page.md) [Projects](../../projects.md), [Blog](../../blog.md)
 
-# January 16th, 2026
-
 This week was mostly a mix of writing, course support work, and the usual background maintenance that comes with keeping research output moving forward. Nothing flashy, but a lot of the unglamorous “make it actually usable and presentable” work that tends to determine whether projects stay alive or quietly collapse.
 
 If you’re a student browsing out of curiosity: this post is more of a weekly technical log than a tutorial, but you may still find some useful tools and workflow ideas.

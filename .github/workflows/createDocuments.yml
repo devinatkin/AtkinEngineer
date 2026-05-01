@@ -1,4 +1,4 @@
-name: Convert Resume to PDF
+name: Convert Resumes and CVs to PDF
 
 on:
     push:
@@ -65,3 +65,26 @@ jobs:
               with:
                   name: Resume-Power
                   path: ResumeAndCV/Resume-Power.pdf
+    convert-cv:
+        runs-on: ubuntu-latest
+        needs: convert-general-resume
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v5
+
+            - name: Install pandoc and LaTeX
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install -y pandoc texlive
+
+            - name: Build CV
+              run: |
+                  pandoc ResumeAndCV/cv.md \
+                    -V geometry:margin=0.75in \
+                    -o ResumeAndCV/CV.pdf
+
+            - name: Upload CV
+              uses: actions/upload-artifact@v6
+              with:
+                  name: CV
+                  path: ResumeAndCV/CV.pdf

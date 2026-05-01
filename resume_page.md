@@ -1,9 +1,8 @@
 ---
 layout: default
+title: Work With Me
 ---
 [Projects](projects.md), [Blog](blog.md)
-
-# Work With Me
 
 I’m an Electrical Engineering PhD candidate specialising in hardware-heavy engineering:
 embedded systems, FPGA development, PCB design, and test/validation.

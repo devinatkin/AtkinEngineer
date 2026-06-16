@@ -2,7 +2,7 @@
 layout: default
 title: January 16th, 2026
 ---
-[Work With Me](../../resume_page.md) [Projects](../../projects.md), [Blog](../../blog.md)
+[Work With Me](../../../resume_page.md) [Projects](../../../projects.md), [Blog](../../../blog.md)
 
 This week was mostly a mix of writing, course support work, and the usual background maintenance that comes with keeping research output moving forward. Nothing flashy, but a lot of the unglamorous “make it actually usable and presentable” work that tends to determine whether projects stay alive or quietly collapse.
 

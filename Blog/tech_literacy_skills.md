@@ -1,9 +1,8 @@
 ---
 layout: default
+title: Skills you Need
 ---
 [Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
-
-## Skills you Need
 
 1) Every Operating System. Yes I say and mean Every Operating System. 
 What most people think I mean is that you need to be equally comfortable in any operating system that you're put in front of. 

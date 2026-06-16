@@ -1,9 +1,9 @@
 ---
 layout: default
+title: Clockify
 ---
 [Work With Me](../resume_page.md) [Projects](../projects.md), [Blog](../blog.md)
 
-## Clockify
 
 Life every graduate student I've found it hard at times to make good progress without falling apart at the seams from pushing myself past reasonable limits, and ignoring healthy work life balance. It's really easy to fall into the habbit, and it's also really really difficult to get out of the habbit as people start expecting unreasonable amounts of progress at any given time. This can be made even worse when you're responsible for managing hardware or equipment. If there are jobs that are too small to justify a full time employee, like managing a labs computers, but large enough to intermittently take a large amount of time without much clear progress, then you can find yourself working long hours, but struggling to find anything impressive to say you got done. Jobs like IT are notorious for being underappreciated because when you do them great, nothing goes wrong and everyone asumes that you're doing nothing, and if anything goes wrong, people wonder what they're paying you for. 
 

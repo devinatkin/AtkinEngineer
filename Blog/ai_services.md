@@ -1,5 +1,6 @@
 ---
 layout: default
+title: AI Services
 ---
 What AI Services am I using and why am I using those AI services.
 

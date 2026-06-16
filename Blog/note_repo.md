@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Note Repos
 ---
 [Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 

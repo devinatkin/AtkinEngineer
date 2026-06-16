@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Board Houses
 ---
 [Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
 

@@ -1,9 +1,8 @@
 ---
 layout: default
+title: Microcontrollers
 ---
 [Work With Me](../resume_page.md), [Projects](../projects.md), [Blog](../blog.md)
-
-# Microcontrollers
 
 ## RP2040 
 A really great option when you're looking for something cheap and quick that can be programmed at a plethora of levels. The options that are primarily supported are Micropython, C, and C++; however, I've seen work with rust on it which is always good fun. The dual M0 cores make it suitable for light levels of multi-tasking, especially when paired with a good RTOS to handle the timing itself. The PIO cores can allow for simple state machine like behavior which allows for easier responses at the system clock speed. Generating things like VGA signals, or even DVI signals are then possible. 

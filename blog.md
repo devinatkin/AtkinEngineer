@@ -9,8 +9,7 @@ Bloggy things I've written. Writing quality is not guaranteed as I aim to update
 - [January 16th 2026](Blog\dated\january2026\january16_2026)  
 - [January 25th 2026](Blog\dated\january2026\january25_2026)  
 - [March 14th 2026](Blog\dated\march2026\march14_2026)  
-- [June 15th 2026]
-(Blog\dated\june2026\june15_2026)  
+- [June 15th 2026](Blog\dated\june2026\june15_2026)  
 
 ## Specific Writing
 - [Services For Starting](Blog\services_for_starting)  
